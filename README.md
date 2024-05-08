@@ -1619,6 +1619,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libusb|1.0.23|1.0.27|
 |libusb+32|1.0.23|1.0.27|
 |libusb-compat|0.1.5|0.1.8|
+|libusb-compat+32|0.1.5|0.1.8|
 |libusbmuxd|2.0.2|2.1.0|
 |libutf8proc|2.4.0|2.9.0|
 |libva+32|2.15.0|2.21.0|
