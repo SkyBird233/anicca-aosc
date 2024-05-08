@@ -1,33 +1,19 @@
 import sys
-import re
+import json
 
-if __name__ == '__main__':
-    print('# Anicca AOSC')
-    print('This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.')
-    print('## Result')
+header = """# Anicca AOSC
+This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
+## Result"""
 
-    table = []
+if __name__ == "__main__":
+    print(header)
+    print("| Package | Repo Version | New Version | Path | Warnings |")
+    print("|---------|--------------|-------------|------|----------|")
 
-    for line in sys.stdin:
-        line = line.strip()
+    table = json.loads(sys.stdin.read())
 
-        if 'The following packages were updated:' in line or not line:
-            continue
-        
-        if 'Errors:' in line:
-            break
+    for row in sorted(table, key=lambda x: x["name"]):
+        row["before"] = row["before"].replace("+", "<br>+")
+        row["warnings"] = "<br>".join(row["warnings"])
 
-        if line[0:4] == 'Name':
-            print('| Package | Repo Version | New Version | Issues |')
-            print('|---------|--------------|-------------|--------|')
-            continue
-
-        table.append(re.split('\s+', line.replace('->', ' '), 3))
-    
-    for row in sorted(table, key = lambda x: x[0]):
-        row[1] = row[1].replace('+', '<br>+')
-        
-        if len(row) > 3:
-            row[3] = row[3].replace('; ', '<br>')
-        
-        print('|' + '|'.join(row) + '|')
+        print("|" + "|".join(row.values()) + "|")
