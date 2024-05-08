@@ -3187,6 +3187,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yelp|42.1|42.2|
 |yelp-tools|42.0|42.1|
 |yelp-xsl|42.0|42.1|
+|yosys|0.39|0.40|
 |ytmusicapi|1.5.1|1.7.0|
 |yubico-pam|2.26|2.27|
 |yubico-piv-tool|2.3.1|2.5.2|
