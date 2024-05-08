@@ -20,14 +20,27 @@ jobs:
       - name: Setup Rust toolchain
         uses: dtolnay/rust-toolchain@stable
 
-      - name: Build `aosc-findupdate`
-        run: |
-          git clone https://github.com/AOSC-Dev/aosc-findupdate
-          cd aosc-findupdate
-          cargo build --release
-      
+      - name: Get `aosc-findupdate`
+        run: git clone https://github.com/AOSC-Dev/aosc-findupdate
+
       - name: Get `aosc-os-abbs`
         run: git clone https://github.com/AOSC-Dev/aosc-os-abbs
+      
+      - name: Cargo Cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            aosc-findupdate/target/
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.lock') }}
+
+      - name: Build `aosc-findupdate`
+        run: |
+          cd aosc-findupdate
+          cargo build --release
       
       - name: Generate `pkgsupdate.json`
         run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
