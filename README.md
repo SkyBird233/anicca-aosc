@@ -1,7 +1,6 @@
-
-    # Anicca AOSC
-    This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
-    ## Result
+# Anicca AOSC
+This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
+## Result
 | Package | Repo Version | New Version | Path |
 |---------|--------------|-------------|------|
 |0ad|0.0.26|0.0.26|app-games/0ad|
@@ -1351,6 +1350,7 @@
 |gtkspell|2.0.16|2.0.16|desktop-gnome/gtkspell|
 |gtkspell3|3.0.9|3.0.10|desktop-gnome/gtkspell3|
 |gtkspellcheck|4.0.5|5.0.3|lang-python/gtkspellcheck|
+|gtkwave|3.3.119|3.3.119|app-electronics/gtkwave|
 |gtranslator|42.0|46.1|desktop-gnome/gtranslator|
 |gts|121130|121130|app-scientific/gts|
 |gucharmap|15.1.3|15.1.4|desktop-gnome/gucharmap|
@@ -2764,7 +2764,6 @@
 |meson|1.4.0|1.4.0|app-devel/meson|
 |messagelib|23.08.5|24.02.2|desktop-kde/messagelib|
 |metacity|3.44.0|3.46.0|desktop-gnome/metacity|
-|metee|4.0.0|4.0.0|runtime-devices/metee|
 |mfoc|0.10.7|0.10.7|app-devel/mfoc|
 |mgba|0.9.2|0.10.3|app-games/mgba|
 |mhash|0.9.9.9|0.9.9.9|runtime-common/mhash|
@@ -2819,7 +2818,6 @@
 |mouseemu|0.16|0.16.orig|app-utils/mouseemu|
 |mousepad|0.6.1|0.6.2|desktop-xfce/mousepad|
 |movit|1.6.3|1.7.1|runtime-multimedia/movit|
-|mozo|1.26.2|1.28.0|desktop-mate/mozo|
 |mp3blaster|3.2.6|3.2.6|app-multimedia/mp3blaster|
 |mp3gain|1.6.2|1_6_2|app-multimedia/mp3gain|
 |mp4v2|4.1.3|2.1.3|app-multimedia/mp4v2|
@@ -3800,6 +3798,7 @@
 |qrencode|4.0.2|4.1.1|runtime-imaging/qrencode|
 |qscintilla|2.13.1|2.14.1|runtime-common/qscintilla|
 |qsynth|0.5.6|0.9.91|app-multimedia/qsynth|
+|qt-4|4.8.7|4.8.7|runtime-desktop/qt-4|
 |qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|runtime-desktop/qt-5|
 |qt-6|6.7.0|6.7.0|runtime-desktop/qt-6|
 |qt-gstreamer|1.2.0|1.2.0|runtime-multimedia/qt-gstreamer|
@@ -3834,7 +3833,6 @@
 |rapidfuzz|3.2.0|3.1.1|lang-python/rapidfuzz|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common/rapidfuzz-cpp|
 |rapidjson|1.1.0|1.1.0|runtime-common/rapidjson|
-|raptor2|2.0.15|2.0.16|runtime-common/raptor2|
 |rarian|0.8.1|0.8.5|app-doc/rarian|
 |rasqal|0.9.33|0.9.33|runtime-common/rasqal|
 |rav1e|0.7.1|0.7.1|runtime-multimedia/rav1e|
