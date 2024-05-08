@@ -325,7 +325,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configparser|3.7.3|3.12.3|lang-python/configparser||
 |configshell-fb|1.1.28|1.1.30|lang-python/configshell-fb||
 |confuse|3.2.2|3.3|runtime-common/confuse||
-|conky|1.10.8|1.20.2|app-utils/conky||
 |conmon|2.1.10|2.1.11|app-admin/conmon||
 |constantly|15.1.0|23.10.4|lang-python/constantly||
 |construct|2.9.45|2.10.70|lang-python/construct||
@@ -351,6 +350,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cryfs|0.10.2|0.11.4|app-admin/cryfs||
 |crypto++|8.2.0|8.9.0|runtime-cryptography/crypto++||
 |cryptography|40.0.0|42.0.7|lang-python/cryptography||
+|cryptsetup|2.7.0|2.7.2|app-admin/cryptsetup||
 |css-parser|1.0.6|1.0.10|lang-python/css-parser||
 |cssselect2|0.6.0|0.7.0|lang-python/cssselect2||
 |cssutils|1.0.2|2.10.2|lang-python/cssutils||
@@ -1726,12 +1726,14 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lvm2|2.03.14|2.03.23|app-admin/lvm2||
 |lxappearance|0.6.2|0.6.3|desktop-lxde/lxappearance||
 |lxc|5.0.2|6.0.0|app-admin/lxc||
+|lxcfs|3.0.3|6.0.0|app-admin/lxcfs||
 |lxgwcleargothic-font|0.206|0.291.2|desktop-fonts/lxgwcleargothic-font||
 |lxgwnewcleargothic-font|1.108|1.121|desktop-fonts/lxgwnewcleargothic-font||
 |lxgwwenkai-font|1.315|1.330|desktop-fonts/lxgwwenkai-font||
 |lxml|4.7.1|4.9.1|lang-python/lxml||
 |lxpanel|0.9.3|0.10.1|desktop-lxde/lxpanel||
 |lxterminal|0.3.2|0.4.0|desktop-lxde/lxterminal||
+|lychee|0.14.0|0.15.1|app-web/lychee||
 |lynx|2.9.0|2.9.1|app-web/lynx||
 |lzd|1.0|1.4|app-utils/lzd||
 |lzip|1.23|1.24.1|app-utils/lzip||
@@ -2551,6 +2553,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |recommonmark|20180907|0.7.1|lang-python/recommonmark|Possible downgrade from the current version (20180907 -> 0.7.1)|
 |redsocks2|0.67<br>+git20201229|0.1|app-network/redsocks2|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.4.28|lang-python/regex||
+|reiser4progs|1.2.2|1.2.2.|app-admin/reiser4progs||
 |remmina|1.4.31|1.4.35|app-network/remmina||
 |renderdoc|1.16|1.32|app-devel/renderdoc||
 |repo|2.43|2.45|app-devel/repo||
@@ -3186,6 +3189,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zfec|1.5.3|1.5.7.4|lang-python/zfec||
 |zfs|2.2.3|2.2.4|app-admin/zfs||
 |zimg|3.0.2|3.0.5|runtime-imaging/zimg||
+|zita-alsa-pcmi|0.3.2|0.6.1|runtime-multimedia/zita-alsa-pcmi||
 |zita-resampler|1.8.0|1.11.2|runtime-multimedia/zita-resampler||
 |zlib+32|1.2.11|1.3.1|runtime-optenv32/zlib+32||
 |zlib-static|1.2.12|1.3.1|runtime-common/zlib-static||
