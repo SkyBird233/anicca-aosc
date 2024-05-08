@@ -201,7 +201,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boto3|1.20.26|1.34.99|lang-python/boto3||
 |bottle|0.12.18|0.12.25|lang-python/bottle||
 |bottles|2022.2.28<br>+trento<br>+4|51.11|app-utils/bottles|Compound version number '2022.2.28+trento+4'<br>Possible downgrade from the current version (2022.2.28+trento+4 -> 51.11)|
-|bovo|23.08.5|24.02.2|desktop-kde/bovo||
 |bpftrace|0.19.1|0.20.3|app-admin/bpftrace||
 |bread-dog|0.1.0|0.1.1|app-utils/bread-dog||
 |breeze|5.27.11|6.0.4|desktop-kde/breeze||
@@ -2839,7 +2838,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tcping|1.3.5|2.1.0|app-network/tcping||
 |tdb|1.4.7|1.4.10|app-database/tdb||
 |tde-common-cmake|14.1.0|14.1.2|desktop-trinity/tde-common-cmake||
-|tde-i18n|14.1.0|14.1.2|desktop-trinity/tde-i18n||
 |tde-style-baghira|14.1.0|14.1.2|desktop-trinity/tde-style-baghira||
 |tde-style-domino|14.1.0|14.1.2|desktop-trinity/tde-style-domino||
 |tde-style-ia-ora|14.1.0|14.1.2|desktop-trinity/tde-style-ia-ora||
