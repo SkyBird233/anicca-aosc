@@ -1973,7 +1973,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|app-utils/nvchecker||
 |nvidia|550.54.14|550.78|runtime-display/nvidia||
 |nvidia+32|0|550.78|runtime-optenv32/nvidia+32||
-|nvme-cli|2.6|2.9.1|app-admin/nvme-cli||
 |obs-studio|27.0.0|30.1.2|app-multimedia/obs-studio||
 |ocaml|4.14.2|5.1.1+effect-syntax|lang-ocaml/ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml/ocaml-csexp||
@@ -2089,7 +2088,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partclone|0.3.20|0.3.27|app-admin/partclone||
 |parted|3.5|3.6|app-admin/parted||
 |partimage|0.6.9|0.7.2|app-admin/partimage||
-|partitionmanager|23.08.5|24.02.2|desktop-kde/partitionmanager||
 |pass|1.7.3|1.7.4|app-utils/pass||
 |pastel|0.2.0|0.2.1|lang-python/pastel||
 |pathlib2|2.3.5|2.3.7.post1|lang-python/pathlib2||
