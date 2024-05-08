@@ -855,6 +855,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |hatch-vcs|0.3.0|0.4.0|lang-python/hatch-vcs||
 |hatchling|1.21.1|1.10.0|lang-python/hatchling|Possible downgrade from the current version (1.21.1 -> 1.10.0)|
 |haveged|1.9.13|1.9.18|app-utils/haveged||
+|hddtemp|0.3.52|0.4.3|app-utils/hddtemp||
 |hdf5|1.10.5|1.14.4.1|runtime-scientific/hdf5||
 |hdrhistogram-c|0.11.6|0.11.8|runtime-common/hdrhistogram-c||
 |hdsentinel|0.17|400s|app-utils/hdsentinel||
@@ -1144,6 +1145,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-admin|23.08.5|24.02.2|desktop-kde/kio-admin||
 |kio-extras|23.08.5|24.02.2|desktop-kde/kio-extras||
 |kio-fuse|5.0.1|5.1.0|desktop-kde/kio-fuse||
+|kio-gdrive|23.08.5|24.02.2|desktop-kde/kio-gdrive||
 |kio-zeroconf|23.08.5|24.02.2|desktop-kde/kio-zeroconf||
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity/kiosktool-trinity||
 |kipi-plugins|23.08.5|24.02.2|desktop-kde/kipi-plugins||
