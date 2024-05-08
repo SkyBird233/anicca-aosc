@@ -1610,6 +1610,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtracefs|1.6.4|1.8.0|runtime-admin/libtracefs||
 |libtsm|4.0.1|4.0.2|runtime-common/libtsm||
 |libudfread|1.1.1|1.1.2|runtime-multimedia/libudfread||
+|libuhd|4.5.0.0|4.6.0.0|runtime-ham/libuhd||
 |libuninameslist|20190701|20230916|runtime-i18n/libuninameslist||
 |libunistring|0.9.10|1.2|runtime-common/libunistring||
 |libunwind|1.6.2|1.8.1|runtime-common/libunwind||
