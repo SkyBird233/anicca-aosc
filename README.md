@@ -3102,7 +3102,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x264|20170521|3190|runtime-multimedia/x264|Possible downgrade from the current version (20170521 -> 3190)|
 |x264+32|20160827.2245|3190|runtime-optenv32/x264+32|Possible downgrade from the current version (20160827.2245 -> 3190)|
 |x265+32|2.2|3.6|runtime-optenv32/x265+32||
-|xa|2.4.0|2.4.1|app-devel/xa||
 |xalan-c|1.12|1.12.0|app-doc/xalan-c||
 |xapian-core|1.4.18|1.4.25|runtime-common/xapian-core||
 |xapps|2.6.1|2.8.2|runtime-desktop/xapps||
