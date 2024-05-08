@@ -29,10 +29,11 @@ jobs:
       - name: Get `aosc-os-abbs`
         run: git clone https://github.com/AOSC-Dev/aosc-os-abbs
       
-      - name: Run `aosc-findupdate` and render the result to Markdown 
-        run: |
-          ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
-          cat pkgsupdate.json | python ./scripts/render-markdown.py > README.md
+      - name: Generate `pkgsupdate.json`
+        run: ./aosc-findupdate/target/release/aosc-findupdate --dry-run -d ./aosc-os-abbs -j "$PWD"/pkgsupdate.json
+
+      - name: Render markdown
+        run: cat pkgsupdate.json | python ./scripts/render-markdown.py > README.md
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
