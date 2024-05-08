@@ -325,6 +325,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |configparser|3.7.3|3.12.3|lang-python/configparser||
 |configshell-fb|1.1.28|1.1.30|lang-python/configshell-fb||
 |confuse|3.2.2|3.3|runtime-common/confuse||
+|conky|1.10.8|1.20.2|app-utils/conky||
 |conmon|2.1.10|2.1.11|app-admin/conmon||
 |constantly|15.1.0|23.10.4|lang-python/constantly||
 |construct|2.9.45|2.10.70|lang-python/construct||
@@ -1609,7 +1610,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libtracefs|1.6.4|1.8.0|runtime-admin/libtracefs||
 |libtsm|4.0.1|4.0.2|runtime-common/libtsm||
 |libudfread|1.1.1|1.1.2|runtime-multimedia/libudfread||
-|libuhd|4.5.0.0|4.6.0.0|runtime-ham/libuhd||
 |libuninameslist|20190701|20230916|runtime-i18n/libuninameslist||
 |libunistring|0.9.10|1.2|runtime-common/libunistring||
 |libunwind|1.6.2|1.8.1|runtime-common/libunwind||
@@ -1815,9 +1815,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils/menumaker||
 |mercurial|5.2.1|6.7.3|app-vcs/mercurial||
 |merkuro|23.08.5|24.02.2|desktop-kde/merkuro||
-|mesa|24.0.6<br>+dxheaders1.611.0|24.0.6|runtime-display/mesa|Compound version number '24.0.6+dxheaders1.611.0'|
-|mesa+32|22.1.7|24.0.6|runtime-optenv32/mesa+32||
-|mesa-amber|21.3.9|24.0.6|runtime-display/mesa-amber||
+|mesa|24.0.6<br>+dxheaders1.611.0|24.0.7|runtime-display/mesa|Compound version number '24.0.6+dxheaders1.611.0'|
+|mesa+32|22.1.7|24.0.7|runtime-optenv32/mesa+32||
+|mesa-amber|21.3.9|24.0.7|runtime-display/mesa-amber||
 |messagelib|23.08.5|24.02.2|desktop-kde/messagelib||
 |metacity|3.44.0|3.46.0|desktop-gnome/metacity||
 |mgba|0.9.2|0.10.3|app-games/mgba||
@@ -2617,7 +2617,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|runtime-display/s2tc|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|runtime-optenv32/s2tc+32|Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.1|lang-python/s3transfer||
-|samba|4.17.2|4.20.0|app-network/samba||
+|samba|4.17.2|4.20.1|app-network/samba||
 |samtools|1.16.1|1.20|app-scientific/samtools||
 |sane-backends|1.0.32|1.3.0|runtime-devices/sane-backends||
 |sanlock|3.8.5|3.9.2|app-admin/sanlock||
