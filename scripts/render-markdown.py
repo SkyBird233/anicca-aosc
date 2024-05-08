@@ -2,12 +2,12 @@ import sys
 import re
 import json
 
+header ='''# Anicca AOSC
+This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
+## Result'''
+
 if __name__ == '__main__':
-    print('''
-    # Anicca AOSC
-    This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
-    ## Result'''
-    )
+    print(header)
     print('| Package | Repo Version | New Version | Path |')
     print('|---------|--------------|-------------|------|')
 
