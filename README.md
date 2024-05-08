@@ -2366,7 +2366,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |portaudio+32|19<br>+20140130|190600_20161030|Compound version number '19+20140130'|
 |portmidi|217|236|
 |postfix|3.7.3|3.9.0|
-|postgresql|13.13|16.2|
+|postgresql|13.13|16.3|
 |potracegui-trinity|14.1.0|14.1.2|
 |powerdevil|5.27.11|6.0.4|
 |powerpc-utils|1.3.10|1.3.12|
