@@ -1136,7 +1136,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |killbots|23.08.5|24.02.2|desktop-kde/killbots||
 |kima-trinity|14.1.0|14.1.2|desktop-trinity/kima-trinity||
 |kimageannotator|0.6.0|0.7.1|desktop-kde/kimageannotator||
-|kimageformats|5.115.0|6.0.4|desktop-kde/kimageformats||
 |kimagemapeditor|23.08.5|24.02.2|desktop-kde/kimagemapeditor||
 |kimap|23.08.5|24.02.2|desktop-kde/kimap||
 |kinfocenter|5.27.11|6.0.4|desktop-kde/kinfocenter||
@@ -1252,7 +1251,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krecipes-trinity|14.1.0|14.1.2|desktop-trinity/krecipes-trinity||
 |krecorder|23.08.5|24.02.2|desktop-kde/krecorder||
 |krename-trinity|14.1.0|14.1.2|desktop-trinity/krename-trinity||
-|kreversi|23.08.5|24.02.2|desktop-kde/kreversi||
 |krfb|23.08.5|24.02.2|desktop-kde/krfb||
 |kross|5.115.0|6.0.4|desktop-kde/kross||
 |kruler|23.08.5|24.02.2|desktop-kde/kruler||
@@ -2940,7 +2938,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tracker-miners|3.3.1|3.7.3|desktop-gnome/tracker-miners||
 |traitlets|5.0.5|5.14.3|lang-python/traitlets||
 |transcode|1.1.7|1_1_7|app-multimedia/transcode||
-|translate-shell|0.9.7|0.9.7.1|app-i18n/translate-shell||
 |translate-toolkit|2.3.1|3.13.0|lang-python/translate-toolkit||
 |transmission-remote-gtk|1.5.1|1.6.0|app-web/transmission-remote-gtk||
 |trash-cli|0.17.1.14|0.24.4.17|app-utils/trash-cli||
