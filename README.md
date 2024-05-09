@@ -986,7 +986,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |json-glib|1.6.6|1.8.0-actual|runtime-common/json-glib||
 |jsonlines|1.2.0|4.0.0|lang-python/jsonlines||
 |jsonpointer|2.3|2.4|lang-python/jsonpointer||
-|jsonrpc-glib|3.42.0|3.44.0|runtime-common/jsonrpc-glib||
 |jsonschema|3.2.0|0.0.1|lang-python/jsonschema|Possible downgrade from the current version (3.2.0 -> 0.0.1)|
 |juk|23.08.5|24.02.2|desktop-kde/juk||
 |jupyter-client|5.2.4|8.6.1|lang-python/jupyter-client||
@@ -1757,7 +1756,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |man-pages|6.05.01<br>+posix2017a|6.7|runtime-data/man-pages|Compound version number '6.05.01+posix2017a'|
 |mangohud|0.7.0|0.7.1|app-utils/mangohud||
 |mangohud+32|0.7.0|0.7.1|runtime-optenv32/mangohud+32||
-|marble|23.08.5|24.02.2|desktop-kde/marble||
 |marco|1.26.2|1.28.1|desktop-mate/marco||
 |mariadb|10.9.4|11.4.1|app-database/mariadb||
 |markdown|3.3.4|3.6|lang-python/markdown||
@@ -2507,7 +2505,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qalculate-tde-trinity|14.1.0|14.1.2|desktop-trinity/qalculate-tde-trinity||
 |qca|2.3.4|2.3.8|runtime-cryptography/qca||
 |qcef|1.1.6|1.1.8|runtime-desktop/qcef||
-|qd|2.3.22|2.3.24|runtime-common/qd||
 |qgnomeplatform|0.8.4|0.9.2|desktop-gnome/qgnomeplatform||
 |qhull|7.2.0|8.0.2|app-scientific/qhull||
 |qjackctl|0.9.7|0.9.91|app-multimedia/qjackctl||
