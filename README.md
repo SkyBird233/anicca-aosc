@@ -524,6 +524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |faad2+32|2.10.0|2.11.1|runtime-optenv32/faad2+32||
 |facile|1.1.3|1.1.4|lang-ocaml/facile||
 |fail2ban|1.0.2|1.1.0|app-admin/fail2ban||
+|falkon|23.08.5|24.02.2|desktop-kde/falkon||
 |fann|20190109|2.2.0|runtime-scientific/fann|Possible downgrade from the current version (20190109 -> 2.2.0)|
 |fantasque-sans-mono-nerd-fonts|3.1.1|3.2.1|desktop-fonts/fantasque-sans-mono-nerd-fonts||
 |fasteners|0.18|0.19|lang-python/fasteners||
@@ -1899,6 +1900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nasm|2.16.01|2.16.03|app-devel/nasm||
 |nasm+32|2.12.01|2.16.03|runtime-optenv32/nasm+32||
 |nautilus|42.2|46.1|desktop-gnome/nautilus||
+|nautilus-python|1.2.3|4.0.1|desktop-gnome/nautilus-python||
 |nbd|3.24|3.26.1|app-network/nbd||
 |nbxmpp|3.1.0|4.5.4|lang-python/nbxmpp||
 |ncbi-blast+|2.13.0|2.15.0+|app-scientific/ncbi-blast+||
@@ -2086,6 +2088,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |parso|0.3.3|0.8.4|lang-python/parso||
 |partclone|0.3.20|0.3.27|app-admin/partclone||
 |parted|3.5|3.6|app-admin/parted||
+|partimage|0.6.9|0.7.2|app-admin/partimage||
 |partitionmanager|23.08.5|24.02.2|desktop-kde/partitionmanager||
 |pass|1.7.3|1.7.4|app-utils/pass||
 |pastel|0.2.0|0.2.1|lang-python/pastel||
@@ -2964,6 +2967,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |typst|0.10.0|0.11.0|app-doc/typst||
 |tzdata|2023d|2024a|runtime-data/tzdata||
 |uboot-asahi|2023.07.02<br>+3|2024.04-1|runtime-kernel/uboot-asahi|Compound version number '2023.07.02+3'|
+|uboot-tools|2022.10|2024.04|app-utils/uboot-tools||
 |ubuntu-keyring|2021.03.26|2023.11.28.1|app-admin/ubuntu-keyring||
 |uchardet|0.0.5|0.0.8|runtime-i18n/uchardet||
 |ucx|1.15.0|1.16.0|runtime-scientific/ucx||
