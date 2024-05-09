@@ -1136,6 +1136,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |killbots|23.08.5|24.02.2|desktop-kde/killbots||
 |kima-trinity|14.1.0|14.1.2|desktop-trinity/kima-trinity||
 |kimageannotator|0.6.0|0.7.1|desktop-kde/kimageannotator||
+|kimageformats|5.115.0|6.0.4|desktop-kde/kimageformats||
 |kimagemapeditor|23.08.5|24.02.2|desktop-kde/kimagemapeditor||
 |kimap|23.08.5|24.02.2|desktop-kde/kimap||
 |kinfocenter|5.27.11|6.0.4|desktop-kde/kinfocenter||
@@ -1251,6 +1252,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |krecipes-trinity|14.1.0|14.1.2|desktop-trinity/krecipes-trinity||
 |krecorder|23.08.5|24.02.2|desktop-kde/krecorder||
 |krename-trinity|14.1.0|14.1.2|desktop-trinity/krename-trinity||
+|kreversi|23.08.5|24.02.2|desktop-kde/kreversi||
 |krfb|23.08.5|24.02.2|desktop-kde/krfb||
 |kross|5.115.0|6.0.4|desktop-kde/kross||
 |kruler|23.08.5|24.02.2|desktop-kde/kruler||
@@ -1947,7 +1949,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nilfs-utils|2.2.9|2.2.11|app-admin/nilfs-utils||
 |ninja|1.12.0|1.11.1.1|app-devel/ninja|Possible downgrade from the current version (1.12.0 -> 1.11.1.1)|
 |nmap|7.93|7.95|app-network/nmap||
-|nodejs|20.13.0|21.7.1|lang-js/nodejs||
 |noip|2.1.9|3.0.0|app-network/noip||
 |noise-suppression-for-voice|0.91|1.03|app-multimedia/noise-suppression-for-voice||
 |nokogiri|1.13.9|1.16.4|lang-ruby/nokogiri||
@@ -2938,6 +2939,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tracker-miners|3.3.1|3.7.3|desktop-gnome/tracker-miners||
 |traitlets|5.0.5|5.14.3|lang-python/traitlets||
 |transcode|1.1.7|1_1_7|app-multimedia/transcode||
+|translate-shell|0.9.7|0.9.7.1|app-i18n/translate-shell||
 |translate-toolkit|2.3.1|3.13.0|lang-python/translate-toolkit||
 |transmission-remote-gtk|1.5.1|1.6.0|app-web/transmission-remote-gtk||
 |trash-cli|0.17.1.14|0.24.4.17|app-utils/trash-cli||
