@@ -572,7 +572,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|app-utils/fim|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|lang-ocaml/findlib||
 |fio|3.35|3.37|app-utils/fio||
-|firefox|123.0|125.0.3|app-web/firefox||
 |firehol|3.1.6|3.1.7|app-network/firehol||
 |firewalld|2.0.0|2.1.2|app-network/firewalld||
 |flac|1.3.3|1.4.3|app-multimedia/flac||
@@ -1003,7 +1002,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaddressbook|23.08.5|24.02.2|desktop-kde/kaddressbook||
 |kaffeine-trinity|14.1.0|14.1.2|desktop-trinity/kaffeine-trinity||
 |kajongg|23.08.5|24.02.2|desktop-kde/kajongg||
-|kalarm|23.08.5|24.02.2|desktop-kde/kalarm||
 |kalgebra|23.08.5|24.02.2|desktop-kde/kalgebra||
 |kalk|23.08.5|24.02.2|desktop-kde/kalk||
 |kalzium|23.08.5|24.02.2|desktop-kde/kalzium||
@@ -1850,6 +1848,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modem-manager-gui|0.0.19.1|0.0.20|app-network/modem-manager-gui||
 |modemmanager|1.18.12|1.22.0|app-network/modemmanager||
 |modemmanager-qt|5.115.0|6.0.4|desktop-kde/modemmanager-qt||
+|mokutil|0.6.0|0.7.2|app-admin/mokutil||
 |mold|2.4.0|2.31.0|app-devel/mold||
 |mono|6.12.0.182|6.12.0.206|lang-dotnet/mono||
 |monotonic|1.5|1.6|lang-python/monotonic||
@@ -2049,7 +2048,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opusfile|0.11|0.12|runtime-multimedia/opusfile||
 |orc|0.4.32|0.4.38|app-devel/orc||
 |orc+32|0.4.32|0.4.38|runtime-optenv32/orc+32||
-|orca|42.3|46.1|desktop-gnome/orca||
 |osdlyrics|20190407|0.5.15|app-multimedia/osdlyrics|Possible downgrade from the current version (20190407 -> 0.5.15)|
 |osinfo-db|20230719|20231215|app-admin/osinfo-db||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin/osinfo-db-tools||
@@ -2386,7 +2384,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psmisc|23.6|23.7|app-utils/psmisc||
 |pstate-frequency|3.11.0|3.15.1|app-admin/pstate-frequency||
 |pstoedit|3.75|4.01|app-doc/pstoedit||
-|psycopg2|2.8.6|2.9.9|lang-python/psycopg2||
 |ptex|2.3.2|2.4.2|runtime-creativity/ptex||
 |ptyprocess|0.6.0|0.7.0|lang-python/ptyprocess||
 |pugixml|1.11.4|1.14|runtime-common/pugixml||
