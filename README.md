@@ -57,6 +57,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-utils|1.2.8|1.2.11|app-multimedia/alsa-utils||
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity/amarok-trinity||
 |amtk|5.5.1|5.6.1|desktop-gnome/amtk||
+|analitza|23.08.5|24.02.2|desktop-kde/analitza||
 |angelfish|23.08.5|24.02.2|desktop-kde/angelfish||
 |ansible|2.12.1|2.16.6|app-admin/ansible||
 |aom|3.8.1|3.9.0|runtime-multimedia/aom||
@@ -404,6 +405,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|app-utils/dex||
 |dfu-util|0.10|0.11|app-devel/dfu-util||
 |dhcp|4.4.3.P1|4.4.3-P1|app-network/dhcp||
+|dhcpcd|9.2.0|10.0.6|app-network/dhcpcd||
 |dia|0.97.3|1|app-doc/dia||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils/dialog|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils/dieharder||
@@ -1270,6 +1272,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksirk|23.08.5|24.02.2|desktop-kde/ksirk||
 |ksmtp|23.08.5|24.02.2|desktop-kde/ksmtp||
 |ksnakeduel|23.08.5|24.02.2|desktop-kde/ksnakeduel||
+|kspaceduel|23.08.5|24.02.2|desktop-kde/kspaceduel||
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|desktop-trinity/ksplash-engine-moodin-trinity||
 |ksquares|23.08.5|24.02.2|desktop-kde/ksquares||
 |ksquirrel-trinity|14.1.0|14.1.2|desktop-trinity/ksquirrel-trinity||
@@ -2695,6 +2698,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slurm|0.4.4|0.5.1|app-network/slurm||
 |smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity/smartcardauth-trinity||
 |smartdns|35|45|app-network/smartdns||
+|smartmontools|7.3|7.4|app-admin/smartmontools||
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity/smb4k-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs/smmap||
 |smpeg|0.4.5|2_0_0|app-multimedia/smpeg||
@@ -3154,6 +3158,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yakuake|23.08.5|24.02.2|desktop-kde/yakuake||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity/yakuake-trinity||
 |yaml-cpp|0.6.3|0.8.0|runtime-common/yaml-cpp||
+|yard|0.9.26|0.9.36|app-doc/yard||
 |yarl|1.6.3|1.9.4|lang-python/yarl||
 |yarn|1.22.17|1.22.22|lang-js/yarn||
 |yaspin|1.2.0|3.0.2|lang-python/yaspin||
