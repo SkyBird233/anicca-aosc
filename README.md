@@ -1220,6 +1220,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |konsole|23.08.5|24.02.2|desktop-kde/konsole||
 |kontact|23.08.5|24.02.2|desktop-kde/kontact||
 |kontactinterface|23.08.5|24.02.2|desktop-kde/kontactinterface||
+|kontrast|23.08.5|24.02.2|desktop-kde/kontrast||
 |konversation|23.08.5|24.02.2|desktop-kde/konversation||
 |konversation-trinity|14.1.0|14.1.2|desktop-trinity/konversation-trinity||
 |kooldock-trinity|14.1.0|14.1.2|desktop-trinity/kooldock-trinity||
