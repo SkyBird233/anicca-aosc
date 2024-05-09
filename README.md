@@ -57,13 +57,12 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |alsa-utils|1.2.8|1.2.11|app-multimedia/alsa-utils||
 |amarok-trinity|14.1.0|14.1.2|desktop-trinity/amarok-trinity||
 |amtk|5.5.1|5.6.1|desktop-gnome/amtk||
-|analitza|23.08.5|24.02.2|desktop-kde/analitza||
 |angelfish|23.08.5|24.02.2|desktop-kde/angelfish||
 |ansible|2.12.1|2.16.6|app-admin/ansible||
 |aom|3.8.1|3.9.0|runtime-multimedia/aom||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2023||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2024|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
-|aosc-findupdate|0.4.0|0.3.2|app-utils/aosc-findupdate|Possible downgrade from the current version (0.4.0 -> 0.3.2)|
+|aosc-findupdate|0.4.6|0.3.2|app-utils/aosc-findupdate|Possible downgrade from the current version (0.4.6 -> 0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils/aosc-media-writer||
 |aosc-xdg-menu|20200412|20160217|runtime-data/aosc-xdg-menu|Possible downgrade from the current version (20200412 -> 20160217)|
 |aoscbootstrap|0.4.5|0.4.7|app-utils/aoscbootstrap||
@@ -405,7 +404,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dex|0.8.0|0.9.0|app-utils/dex||
 |dfu-util|0.10|0.11|app-devel/dfu-util||
 |dhcp|4.4.3.P1|4.4.3-P1|app-network/dhcp||
-|dhcpcd|9.2.0|10.0.6|app-network/dhcpcd||
 |dia|0.97.3|1|app-doc/dia||
 |dialog|1.3<br>+20191110|1.3-20230209|app-utils/dialog|Compound version number '1.3+20191110'|
 |dieharder|3.31.1|3.31.1_20110601-1|app-utils/dieharder||
@@ -1272,7 +1270,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ksirk|23.08.5|24.02.2|desktop-kde/ksirk||
 |ksmtp|23.08.5|24.02.2|desktop-kde/ksmtp||
 |ksnakeduel|23.08.5|24.02.2|desktop-kde/ksnakeduel||
-|kspaceduel|23.08.5|24.02.2|desktop-kde/kspaceduel||
 |ksplash-engine-moodin-trinity|14.1.0|14.1.2|desktop-trinity/ksplash-engine-moodin-trinity||
 |ksquares|23.08.5|24.02.2|desktop-kde/ksquares||
 |ksquirrel-trinity|14.1.0|14.1.2|desktop-trinity/ksquirrel-trinity||
@@ -1697,7 +1694,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|17.0.6|18.1.5|runtime-wasi/llvm-runtime+wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils/lm-sensors||
 |lmdb|0.9.28|0.9.32|app-database/lmdb||
-|lmms|1.2.2<br>+git20240125|1.2.2|app-creativity/lmms|Compound version number '1.2.2+git20240125'<br>Version number indicates a snapshot (+git) is used|
+|lmms|1.2.2<br>+git20240508|1.2.2|app-creativity/lmms|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common/log4cpp||
 |logrotate|3.18.1|3.21.0|app-admin/logrotate||
 |loguru|0.5.3|0.7.2|lang-python/loguru||
@@ -1949,7 +1946,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nilfs-utils|2.2.9|2.2.11|app-admin/nilfs-utils||
 |ninja|1.12.0|1.11.1.1|app-devel/ninja|Possible downgrade from the current version (1.12.0 -> 1.11.1.1)|
 |nmap|7.93|7.95|app-network/nmap||
-|nodejs|20.12.2|21.7.1|lang-js/nodejs||
+|nodejs|20.13.0|21.7.1|lang-js/nodejs||
 |noip|2.1.9|3.0.0|app-network/noip||
 |noise-suppression-for-voice|0.91|1.03|app-multimedia/noise-suppression-for-voice||
 |nokogiri|1.13.9|1.16.4|lang-ruby/nokogiri||
@@ -2519,7 +2516,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qrencode|4.0.2|4.1.1|runtime-imaging/qrencode||
 |qscintilla|2.13.1|2.14.1|runtime-common/qscintilla||
 |qsynth|0.5.6|0.9.91|app-multimedia/qsynth||
-|qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|runtime-desktop/qt-5|Compound version number '5.15.5+webengine5.15.10+webkit5.212.0+kde20220705'|
+|qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|runtime-desktop/qt-5|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408 -> 5.15.13-lts-lgpl)|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity/qt4-tqt-theme-engine-trinity||
 |qtcreator|12.0.1|13.0.1|app-devel/qtcreator||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop/qtkeychain||
@@ -2698,7 +2695,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slurm|0.4.4|0.5.1|app-network/slurm||
 |smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity/smartcardauth-trinity||
 |smartdns|35|45|app-network/smartdns||
-|smartmontools|7.3|7.4|app-admin/smartmontools||
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity/smb4k-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs/smmap||
 |smpeg|0.4.5|2_0_0|app-multimedia/smpeg||
@@ -3102,6 +3098,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |x264|20170521|3190|runtime-multimedia/x264|Possible downgrade from the current version (20170521 -> 3190)|
 |x264+32|20160827.2245|3190|runtime-optenv32/x264+32|Possible downgrade from the current version (20160827.2245 -> 3190)|
 |x265+32|2.2|3.6|runtime-optenv32/x265+32||
+|xa|2.4.0|2.4.1|app-devel/xa||
 |xalan-c|1.12|1.12.0|app-doc/xalan-c||
 |xapian-core|1.4.18|1.4.25|runtime-common/xapian-core||
 |xapps|2.6.1|2.8.2|runtime-desktop/xapps||
@@ -3157,7 +3154,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yakuake|23.08.5|24.02.2|desktop-kde/yakuake||
 |yakuake-trinity|14.1.0|14.1.2|desktop-trinity/yakuake-trinity||
 |yaml-cpp|0.6.3|0.8.0|runtime-common/yaml-cpp||
-|yard|0.9.26|0.9.36|app-doc/yard||
 |yarl|1.6.3|1.9.4|lang-python/yarl||
 |yarn|1.22.17|1.22.22|lang-js/yarn||
 |yaspin|1.2.0|3.0.2|lang-python/yaspin||
