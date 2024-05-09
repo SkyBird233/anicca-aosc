@@ -549,6 +549,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-skk|5.1.0|5.1.3|app-i18n/fcitx5-skk||
 |fcitx5-unikey|5.1.1|5.1.4|app-i18n/fcitx5-unikey||
 |fd|9.0.0|10.0.0|app-utils/fd||
+|fdkaac|1.0.1|1.0.6|app-multimedia/fdkaac||
 |feedbackd|0.2.1|0.3.0|desktop-gnome/feedbackd||
 |feedparser|6.0.8|6.0.11|lang-python/feedparser||
 |feeluown|4.1.1|4.1.3|app-multimedia/feeluown||
@@ -2850,6 +2851,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeadmin|14.1.0|14.1.2|desktop-trinity/tdeadmin||
 |tdeartwork|14.1.0|14.1.2|desktop-trinity/tdeartwork||
 |tdebase|14.1.0|14.1.2|desktop-trinity/tdebase||
+|tdebindings|14.1.0|14.1.2|desktop-trinity/tdebindings||
 |tdedocker|14.1.0|14.1.2|desktop-trinity/tdedocker||
 |tdeedu|14.1.0|14.1.2|desktop-trinity/tdeedu||
 |tdegames|14.1.0|14.1.2|desktop-trinity/tdegames||
@@ -3107,6 +3109,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xarchiver|0.5.4.15|0.5.4.23|app-utils/xarchiver||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils/xcalibrate|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
 |xcb-imdkit|1.0.5|1.0.8|runtime-i18n/xcb-imdkit||
+|xcb-proto|1.16.0|1.17.0|runtime-display/xcb-proto||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32/xcb-proto+32||
 |xcffib|0.7.0|1.5.0|lang-python/xcffib||
 |xclip|20191017|0.13|app-utils/xclip|Possible downgrade from the current version (20191017 -> 0.13)|
