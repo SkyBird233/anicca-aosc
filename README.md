@@ -435,7 +435,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc/docbook-dtd||
 |docbook-sgml|0|4.5|app-doc/docbook-sgml||
 |docbook-xml|0|5.1|app-doc/docbook-xml||
-|docker|25.0.3<br>+tini0.19.0|26.1.1|app-containers/docker|Compound version number '25.0.3+tini0.19.0'|
+|docker|25.0.3<br>+tini0.19.0|26.1.2|app-containers/docker|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|app-containers/docker-compose||
 |docutils|0.20.1|0.21.2|lang-python/docutils||
 |dolphin|23.08.5|24.02.2|desktop-kde/dolphin||
@@ -1949,6 +1949,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nilfs-utils|2.2.9|2.2.11|app-admin/nilfs-utils||
 |ninja|1.12.0|1.11.1.1|app-devel/ninja|Possible downgrade from the current version (1.12.0 -> 1.11.1.1)|
 |nmap|7.93|7.95|app-network/nmap||
+|nodejs|20.13.0|21.7.1|lang-js/nodejs||
 |noip|2.1.9|3.0.0|app-network/noip||
 |noise-suppression-for-voice|0.91|1.03|app-multimedia/noise-suppression-for-voice||
 |nokogiri|1.13.9|1.16.4|lang-ruby/nokogiri||
@@ -2294,8 +2295,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils/pinentry||
 |pip|22.3.1|24.1b1|lang-python/pip||
 |piper|0.6|0.7|app-utils/piper||
-|pipewire|1.0.4|1.0.5|app-multimedia/pipewire||
-|pipewire-0.2|0.2.7|1.0.5|app-multimedia/pipewire-0.2||
+|pipewire|1.0.4|1.0.6|app-multimedia/pipewire||
+|pipewire-0.2|0.2.7|1.0.6|app-multimedia/pipewire-0.2||
 |pixman|0.43.0|0.43.4|runtime-display/pixman||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32/pixman+32||
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography/pkcs11-helper||
@@ -2816,7 +2817,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|app-admin/syslinux|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome/sysprof||
 |system-config-printer|1.5.17|1.5.18|app-admin/system-config-printer||
-|systemd|255.3|255.5|app-admin/systemd||
+|systemd|255.3|255.6|app-admin/systemd||
 |systemsettings|5.27.11|6.0.4|desktop-kde/systemsettings||
 |systemtap|4.4|5.1|app-utils/systemtap||
 |sysv-ipc|1.0.1|1.1.0|lang-python/sysv-ipc||
