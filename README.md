@@ -686,6 +686,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-archive-all|1.20.0|1.23.1|app-vcs/git-archive-all||
 |git-branchless|0.7.1|0.8.0|app-utils/git-branchless||
 |git-lfs|3.5.0|3.5.1|app-devel/git-lfs||
+|gitdb|4.0.10|4.0.11|runtime-vcs/gitdb||
 |gitg|41|44|desktop-gnome/gitg||
 |gitoxide|0.34.0|0.35.0|app-vcs/gitoxide||
 |gitpython|3.1.35|3.1.43|runtime-vcs/gitpython||
@@ -940,6 +941,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.13.29138.7|24.17.29377.6|runtime-scientific/intel-compute-runtime||
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices/intel-gmmlib||
 |intel-graphics-compiler|1.0.16510.2|1.0.16747.4|app-devel/intel-graphics-compiler||
+|intel-media-driver|24.1.5|24.2.2|runtime-multimedia/intel-media-driver||
 |intel-ucode|20221108|20240312|runtime-data/intel-ucode||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils/inxi|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network/iodine||
@@ -1367,6 +1369,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcbor|0.8.0|0.11.0|runtime-common/libcbor||
 |libcdio+32|0.94|2.1.0|runtime-optenv32/libcdio+32||
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices/libcdio-paranoia|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
+|libcdr|0.1.6|0.1.7|runtime-imaging/libcdr||
 |libcgroup|2.0|3.1.0|app-admin/libcgroup||
 |libchamplain|0.12.20|0.12.21|desktop-gnome/libchamplain||
 |libchewing|0.5.1|0.7.0|runtime-i18n/libchewing||
@@ -1774,6 +1777,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-menu|20.04.3|22.04.2|desktop-mate/mate-menu||
 |mate-menus|1.26.1|1.28.0|desktop-mate/mate-menus||
 |mate-notification-daemon|1.26.1|1.28.0|desktop-mate/mate-notification-daemon||
+|mate-panel|1.26.4|1.28.1|desktop-mate/mate-panel||
 |mate-polkit|1.26.1|1.28.1|desktop-mate/mate-polkit||
 |mate-power-manager|1.26.1|1.28.1|desktop-mate/mate-power-manager||
 |mate-screensaver|1.26.2|1.28.0|desktop-mate/mate-screensaver||
@@ -2138,6 +2142,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl/perl-data-dumper|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl/perl-data-optlist||
 |perl-date-manip|6.82|6.95|lang-perl/perl-date-manip||
+|perl-datetime|1.52|1.65|lang-perl/perl-datetime||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl/perl-datetime-format-strptime||
 |perl-datetime-locale|1.26|1.42|lang-perl/perl-datetime-locale||
 |perl-datetime-timezone|2.39|2.62|lang-perl/perl-datetime-timezone||
@@ -2194,6 +2199,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-image-exiftool|12.50|12.84|lang-perl/perl-image-exiftool||
 |perl-io-socket-inet6|2.72|2.73|lang-perl/perl-io-socket-inet6||
 |perl-io-socket-ssl|2.062|2.085|lang-perl/perl-io-socket-ssl||
+|perl-io-tee|0.65|0.66|lang-perl/perl-io-tee||
 |perl-io-tty|1.13<br>+01|1.20|lang-perl/perl-io-tty|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl/perl-ipc-run||
 |perl-ipc-system-simple|1.25|1.30|lang-perl/perl-ipc-system-simple||
