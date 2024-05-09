@@ -1850,7 +1850,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |modem-manager-gui|0.0.19.1|0.0.20|app-network/modem-manager-gui||
 |modemmanager|1.18.12|1.22.0|app-network/modemmanager||
 |modemmanager-qt|5.115.0|6.0.4|desktop-kde/modemmanager-qt||
-|mokutil|0.6.0|0.7.2|app-admin/mokutil||
 |mold|2.4.0|2.31.0|app-devel/mold||
 |mono|6.12.0.182|6.12.0.206|lang-dotnet/mono||
 |monotonic|1.5|1.6|lang-python/monotonic||
