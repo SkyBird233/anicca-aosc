@@ -572,6 +572,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fim|0.7<br>+git20240221|0.7.0|app-utils/fim|Compound version number '0.7+git20240221'<br>Version number indicates a snapshot (+git) is used|
 |findlib|1.9.5|1.9.6|lang-ocaml/findlib||
 |fio|3.35|3.37|app-utils/fio||
+|firefox|123.0|125.0.3|app-web/firefox||
 |firehol|3.1.6|3.1.7|app-network/firehol||
 |firewalld|2.0.0|2.1.2|app-network/firewalld||
 |flac|1.3.3|1.4.3|app-multimedia/flac||
@@ -685,7 +686,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |git-archive-all|1.20.0|1.23.1|app-vcs/git-archive-all||
 |git-branchless|0.7.1|0.8.0|app-utils/git-branchless||
 |git-lfs|3.5.0|3.5.1|app-devel/git-lfs||
-|gitdb|4.0.10|4.0.11|runtime-vcs/gitdb||
 |gitg|41|44|desktop-gnome/gitg||
 |gitoxide|0.34.0|0.35.0|app-vcs/gitoxide||
 |gitpython|3.1.35|3.1.43|runtime-vcs/gitpython||
@@ -940,7 +940,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |intel-compute-runtime|24.13.29138.7|24.17.29377.6|runtime-scientific/intel-compute-runtime||
 |intel-gmmlib|22.3.18|22.3.19|runtime-devices/intel-gmmlib||
 |intel-graphics-compiler|1.0.16510.2|1.0.16747.4|app-devel/intel-graphics-compiler||
-|intel-media-driver|24.1.5|24.2.2|runtime-multimedia/intel-media-driver||
 |intel-ucode|20221108|20240312|runtime-data/intel-ucode||
 |inxi|3.3.31<br>+2|3.3.31-2|app-utils/inxi|Compound version number '3.3.31+2'|
 |iodine|0.7.0|0.8.0|app-network/iodine||
@@ -1002,6 +1001,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kaddressbook|23.08.5|24.02.2|desktop-kde/kaddressbook||
 |kaffeine-trinity|14.1.0|14.1.2|desktop-trinity/kaffeine-trinity||
 |kajongg|23.08.5|24.02.2|desktop-kde/kajongg||
+|kalarm|23.08.5|24.02.2|desktop-kde/kalarm||
 |kalgebra|23.08.5|24.02.2|desktop-kde/kalgebra||
 |kalk|23.08.5|24.02.2|desktop-kde/kalk||
 |kalzium|23.08.5|24.02.2|desktop-kde/kalzium||
@@ -1367,7 +1367,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libcbor|0.8.0|0.11.0|runtime-common/libcbor||
 |libcdio+32|0.94|2.1.0|runtime-optenv32/libcdio+32||
 |libcdio-paranoia|10.2<br>+2.0.1|2.0.1|runtime-devices/libcdio-paranoia|Compound version number '10.2+2.0.1'<br>Possible downgrade from the current version (10.2+2.0.1 -> 2.0.1)|
-|libcdr|0.1.6|0.1.7|runtime-imaging/libcdr||
 |libcgroup|2.0|3.1.0|app-admin/libcgroup||
 |libchamplain|0.12.20|0.12.21|desktop-gnome/libchamplain||
 |libchewing|0.5.1|0.7.0|runtime-i18n/libchewing||
@@ -1775,7 +1774,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mate-menu|20.04.3|22.04.2|desktop-mate/mate-menu||
 |mate-menus|1.26.1|1.28.0|desktop-mate/mate-menus||
 |mate-notification-daemon|1.26.1|1.28.0|desktop-mate/mate-notification-daemon||
-|mate-panel|1.26.4|1.28.1|desktop-mate/mate-panel||
 |mate-polkit|1.26.1|1.28.1|desktop-mate/mate-polkit||
 |mate-power-manager|1.26.1|1.28.1|desktop-mate/mate-power-manager||
 |mate-screensaver|1.26.2|1.28.0|desktop-mate/mate-screensaver||
@@ -2048,6 +2046,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |opusfile|0.11|0.12|runtime-multimedia/opusfile||
 |orc|0.4.32|0.4.38|app-devel/orc||
 |orc+32|0.4.32|0.4.38|runtime-optenv32/orc+32||
+|orca|42.3|46.1|desktop-gnome/orca||
 |osdlyrics|20190407|0.5.15|app-multimedia/osdlyrics|Possible downgrade from the current version (20190407 -> 0.5.15)|
 |osinfo-db|20230719|20231215|app-admin/osinfo-db||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin/osinfo-db-tools||
@@ -2139,7 +2138,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-data-dumper|2.167<br>+02|2.183|lang-perl/perl-data-dumper|Compound version number '2.167+02'|
 |perl-data-optlist|0.110|0.114|lang-perl/perl-data-optlist||
 |perl-date-manip|6.82|6.95|lang-perl/perl-date-manip||
-|perl-datetime|1.52|1.65|lang-perl/perl-datetime||
 |perl-datetime-format-strptime|1.77|1.79|lang-perl/perl-datetime-format-strptime||
 |perl-datetime-locale|1.26|1.42|lang-perl/perl-datetime-locale||
 |perl-datetime-timezone|2.39|2.62|lang-perl/perl-datetime-timezone||
@@ -2196,7 +2194,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-image-exiftool|12.50|12.84|lang-perl/perl-image-exiftool||
 |perl-io-socket-inet6|2.72|2.73|lang-perl/perl-io-socket-inet6||
 |perl-io-socket-ssl|2.062|2.085|lang-perl/perl-io-socket-ssl||
-|perl-io-tee|0.65|0.66|lang-perl/perl-io-tee||
 |perl-io-tty|1.13<br>+01|1.20|lang-perl/perl-io-tty|Compound version number '1.13+01'|
 |perl-ipc-run|20180523.0|20231003.0|lang-perl/perl-ipc-run||
 |perl-ipc-system-simple|1.25|1.30|lang-perl/perl-ipc-system-simple||
@@ -2384,6 +2381,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |psmisc|23.6|23.7|app-utils/psmisc||
 |pstate-frequency|3.11.0|3.15.1|app-admin/pstate-frequency||
 |pstoedit|3.75|4.01|app-doc/pstoedit||
+|psycopg2|2.8.6|2.9.9|lang-python/psycopg2||
 |ptex|2.3.2|2.4.2|runtime-creativity/ptex||
 |ptyprocess|0.6.0|0.7.0|lang-python/ptyprocess||
 |pugixml|1.11.4|1.14|runtime-common/pugixml||
