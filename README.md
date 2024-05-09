@@ -588,6 +588,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |flent|1.3.2|2.1.1|app-network/flent||
 |flightgear|2020.3.13|2020.3.19|app-games/flightgear||
 |flint|2.5.2|3.1.2|runtime-scientific/flint||
+|fltk|1.3.5|1.3.9|runtime-desktop/fltk||
 |fluidsynth|2.0.5|2.3.5|app-multimedia/fluidsynth||
 |fluidsynth+32|1.1.6|2.3.5|runtime-optenv32/fluidsynth+32||
 |fmt|8.0.1|10.2.1|runtime-common/fmt||
