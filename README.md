@@ -2271,6 +2271,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl/perl-xml-namespacesupport|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl/perl-xml-parser||
 |perl-xml-parser+32|999|2.47|runtime-optenv32/perl-xml-parser+32|Possible downgrade from the current version (999 -> 2.47)|
+|perl-xml-sax|1.00|1.02|lang-perl/perl-xml-sax||
 |perl-xml-sax-expat|0.51|1.33|lang-perl/perl-xml-sax-expat||
 |perl-xml-writer|0.625|0.900|lang-perl/perl-xml-writer||
 |perl-xml-xpath|1.44|1.48|lang-perl/perl-xml-xpath||
