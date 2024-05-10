@@ -1261,7 +1261,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kross|5.115.0|6.0.4|desktop-kde/kross||
 |kruler|23.08.5|24.02.2|desktop-kde/kruler||
 |krunner|5.115.0|6.0.4|desktop-kde/krunner||
-|krusader|2.7.2|2.8.1|desktop-kde/krusader||
 |krusader-trinity|14.1.0|14.1.2|desktop-trinity/krusader-trinity||
 |ksanecore|23.08.5|24.02.2|desktop-kde/ksanecore||
 |kscope-trinity|14.1.0|14.1.2|desktop-trinity/kscope-trinity||
@@ -1671,6 +1670,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libzip|1.5.2|1.10.1|runtime-common/libzip||
 |liferea|1.13.8|1.15.6|app-web/liferea||
 |light-locker|1.8.0|1.9.0|app-utils/light-locker||
+|lightsoff|40.0.1|46.0|desktop-gnome/lightsoff||
 |lighttpd|1.4.55|1.4.76|app-network/lighttpd||
 |lilv|0.24.12|0.24.24|runtime-multimedia/lilv||
 |lilypond|2.23.0|2.25.4|app-multimedia/lilypond||
@@ -1703,6 +1703,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lmms|1.2.2<br>+git20240508|1.2.2|app-creativity/lmms|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common/log4cpp||
 |logrotate|3.18.1|3.21.0|app-admin/logrotate||
+|loguru|0.5.3|0.7.2|lang-python/loguru||
 |lokalize|23.08.5|24.02.2|desktop-kde/lokalize||
 |loudmouth|1.5.3|1.5.4|runtime-web/loudmouth||
 |love11|11.3|11.5|app-games/love11||
@@ -1813,6 +1814,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mediainfo|22.06|24.04|app-multimedia/mediainfo||
 |meld|3.21.3|3.22.2|desktop-gnome/meld||
 |melonds|0.9.2|0.9.5|app-games/melonds||
+|memcached|1.6.12|1.6.27|app-admin/memcached||
 |menulibre|2.2.1|2.4.0|app-utils/menulibre||
 |menumaker|0.99.12|0.99.14|app-utils/menumaker||
 |mercurial|5.2.1|6.7.3|app-vcs/mercurial||
@@ -2898,6 +2900,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.13.0|0.16.1|runtime-common/tevent||
 |texlive|20220321|2024|app-doc/texlive|Possible downgrade from the current version (20220321 -> 2024)|
 |texmaker|5.1.2|5.1.4|app-doc/texmaker||
+|texstudio|4.0.2|4.7.3|app-doc/texstudio||
 |texworks|0.6.6|0.6.9|app-doc/texworks||
 |thedarkmod|2.09a|2.12|app-games/thedarkmod||
 |thermald|2.5.2|2.5.7|app-admin/thermald||
@@ -3032,6 +3035,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |vid.stab|0.98b|1.1.1|runtime-multimedia/vid.stab||
 |vim|9.1.0140|9.1.0393|app-editors/vim||
 |virglrenderer|0.10.4|1.0.1|app-virtualization/virglrenderer||
+|virtualenv|20.25.0|20.26.1|lang-python/virtualenv||
 |virtualgl+32|2.5.2|3.1.1|runtime-optenv32/virtualgl+32||
 |vkd3d|1.9|1.11|runtime-display/vkd3d||
 |vkd3d+32|1.9|1.11|runtime-optenv32/vkd3d+32||
