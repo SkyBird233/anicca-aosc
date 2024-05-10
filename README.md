@@ -819,7 +819,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gst-plugins-good-1-0+32|1.16.2|1.24.3|runtime-optenv32/gst-plugins-good-1-0+32||
 |gst-plugins-ugly-1-0+32|1.16.2|1.24.3|runtime-optenv32/gst-plugins-ugly-1-0+32||
 |gstreamer|1.22.0|1.24.3|runtime-multimedia/gstreamer||
-|gstreamer-1-0+32|1.16.2|1.24.3|groups/gstreamer-1-0+32||
 |gtest|1.10.0<br>+git20210513|1.14.0|app-devel/gtest|Compound version number '1.10.0+git20210513'<br>Version number indicates a snapshot (+git) is used|
 |gti|1.6.1|1.9.1|app-vcs/gti||
 |gtk-2+32|2.24.32|2.24.33|runtime-optenv32/gtk-2+32||
@@ -1588,7 +1587,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libsoup-3|3.2.2|3.5.1|runtime-web/libsoup-3||
 |libspatialite|5.0.1|5.1.0|runtime-gis/libspatialite||
 |libspectre|0.2.9|0.2.12|runtime-doc/libspectre||
-|libspectre+32|0.2.9|0.2.12|runtime-optenv32/libspectre+32||
 |libspiro|0.5.20150702|20221101|runtime-creativity/libspiro||
 |libspnav|0.2.3|1.0|runtime-devices/libspnav||
 |libssh|0.8.9|0.10.6|runtime-network/libssh||
@@ -2860,7 +2858,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tdeedu|14.1.0|14.1.2|desktop-trinity/tdeedu||
 |tdegames|14.1.0|14.1.2|desktop-trinity/tdegames||
 |tdegraphics|14.1.0|14.1.2|desktop-trinity/tdegraphics||
-|tdeio-appinfo|14.1.0|14.1.2|desktop-trinity/tdeio-appinfo||
 |tdeio-apt|14.1.0|14.1.2|desktop-trinity/tdeio-apt||
 |tdeio-ftps|14.1.0|14.1.2|desktop-trinity/tdeio-ftps||
 |tdeio-locate|14.1.0|14.1.2|desktop-trinity/tdeio-locate||
