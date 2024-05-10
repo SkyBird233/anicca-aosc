@@ -1523,6 +1523,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnl+32|3.2.28|3.9.0|runtime-optenv32/libnl+32||
 |libnma|1.10.2|1.10.6|runtime-network/libnma||
 |libnotify|0.7.9|0.8.3|runtime-desktop/libnotify||
+|libnsl2|1.3.0|2.0.1|runtime-network/libnsl2||
 |libnspsl|0.1.6|0.1.7|runtime-web/libnspsl||
 |libnumbertext|1.0.7|1.0.11|runtime-productivity/libnumbertext||
 |libnvme|1.6|1.9|runtime-devices/libnvme||
@@ -3210,4 +3211,3 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zxing-cpp|1.4.0|2.2.1|app-utils/zxing-cpp||
 |zxtune|5053|5061|app-multimedia/zxtune||
 |zyn-fusion|3.0.5|3.0.6|app-multimedia/zyn-fusion||
-|zziplib|0.13.72|0.13.74|runtime-common/zziplib||
