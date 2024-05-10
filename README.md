@@ -1523,7 +1523,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libnl+32|3.2.28|3.9.0|runtime-optenv32/libnl+32||
 |libnma|1.10.2|1.10.6|runtime-network/libnma||
 |libnotify|0.7.9|0.8.3|runtime-desktop/libnotify||
-|libnsl2|1.3.0|2.0.1|runtime-network/libnsl2||
 |libnspsl|0.1.6|0.1.7|runtime-web/libnspsl||
 |libnumbertext|1.0.7|1.0.11|runtime-productivity/libnumbertext||
 |libnvme|1.6|1.9|runtime-devices/libnvme||
@@ -1972,6 +1971,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.18|app-admin/numactl||
 |numix-icon-theme|20190917|24.04.22|desktop-themes/numix-icon-theme|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes/numix-icon-theme-circle|Possible downgrade from the current version (20160927 -> 24.04.22)|
+|numpy|1.26.1|1.26.4|lang-python/numpy||
 |nut|2.7.4|2.8.2|app-admin/nut||
 |nvchecker|1.5|2.14.1|app-utils/nvchecker||
 |nvidia|550.54.14|550.78|runtime-display/nvidia||
@@ -2537,6 +2537,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|lang-python/random2||
 |rapidfuzz|3.2.0|3.1.1|lang-python/rapidfuzz|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common/rapidfuzz-cpp||
+|raptor2|2.0.15|2.0.16|runtime-common/raptor2||
 |rarian|0.8.1|0.8.5|app-doc/rarian||
 |razergenie|0.9.0|1.1.0|app-devices/razergenie||
 |razor-agents|2.85|2.152|app-network/razor-agents||
@@ -2694,6 +2695,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.02.2|desktop-kde/skanlite||
 |skanpage|23.08.5|24.02.2|desktop-kde/skanpage||
 |skktools|1.3.4|1_3_4|app-i18n/skktools||
+|slirp4netns|1.2.2|1.3.0|app-admin/slirp4netns||
 |slock|1.4|1.5|app-utils/slock||
 |slop|7.4|7.6|app-utils/slop||
 |slurm|0.4.4|0.5.1|app-network/slurm||
