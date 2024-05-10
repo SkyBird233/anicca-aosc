@@ -919,7 +919,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |igraph|0.7.1|0.10.12|runtime-scientific/igraph||
 |igv|2.15.1|2.16.2|app-scientific/igv||
 |iio-sensor-proxy|3.4|3.5|app-utils/iio-sensor-proxy||
-|imagemagick|6.9.13<br>+7|6.9.13-10|app-utils/imagemagick|Compound version number '6.9.13+7'|
 |imagemagick+7|7.1.0<br>+43|7.1.1-32|app-utils/imagemagick+7|Compound version number '7.1.0+43'|
 |imagesize|1.1.0|1.4.1|lang-python/imagesize||
 |imake|1.0.8|1.0.10|app-devel/imake||
