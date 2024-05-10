@@ -60,7 +60,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |amtk|5.5.1|5.6.1|desktop-gnome/amtk||
 |analitza|23.08.5|24.02.2|desktop-kde/analitza||
 |angelfish|23.08.5|24.02.2|desktop-kde/angelfish||
-|ansible|2.12.1|2.16.6|app-admin/ansible||
 |aom|3.8.1|3.9.0|runtime-multimedia/aom||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2023||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2024|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
@@ -1388,7 +1387,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdatrie|0.2.12|0.2.13|runtime-i18n/libdatrie||
 |libdc1394|2.2.6|2.2.7|runtime-devices/libdc1394||
 |libde265|1.0.8|1.0.15|runtime-multimedia/libde265||
-|libdecor|0.1.1|0.2.2|runtime-desktop/libdecor||
 |libdeflate|1.19|1.20|runtime-common/libdeflate||
 |libdiscid|0.6.2|0.6.4|runtime-multimedia/libdiscid||
 |libdispatch|5.6.1|5.9.2-RELEASE|runtime-common/libdispatch||
