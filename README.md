@@ -520,6 +520,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eza|0.11.0|0.10.1|app-utils/eza|Possible downgrade from the current version (0.11.0 -> 0.10.1)|
 |f2fs-tools|1.15.0|1.16.0|app-admin/f2fs-tools||
 |f3|7.2|8.0|app-utils/f3||
+|faac|1.29.9.2|1.30|app-multimedia/faac||
 |faac+32|1.28|1.30|runtime-optenv32/faac+32||
 |faad2|2.10.0|2.11.1|app-multimedia/faad2||
 |faad2+32|2.10.0|2.11.1|runtime-optenv32/faad2+32||
@@ -710,6 +711,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|14.2.0|app-imaging/glslang||
 |glslang+32|7.11.3214|14.2.0|runtime-optenv32/glslang+32||
 |glu+32|9.0.1|9.0.3|runtime-optenv32/glu+32||
+|gmic|3.2.6|3.3.5|runtime-imaging/gmic||
 |gmime-3|3.2.7|3.2.14|desktop-gnome/gmime-3||
 |gmp+32|6.1.2|6.3.0|runtime-optenv32/gmp+32||
 |gnome-applets|3.44.0|3.52.0|desktop-gnome/gnome-applets||
@@ -1403,7 +1405,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libeconf|0.5.0|0.6.3|runtime-common/libeconf||
 |libedit|20191231<br>+3.1|20230828-3.1|runtime-common/libedit|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32/libepoxy+32||
-|libepubgen|0.1.0|0.1.1|runtime-doc/libepubgen||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts/libertine-fonts||
 |libesmtp|1.0.6|1.1.0|runtime-network/libesmtp||
 |libetebase|0.5.4|0.5.6|runtime-cryptography/libetebase||
@@ -2400,7 +2401,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |puremagic|1.15|1.23|lang-python/puremagic||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web/purple-matrix|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|desktop-kde/purpose||
-|pv|1.6.20|1.8.9|app-utils/pv||
 |py-filelock|3.0.12|3.14.0|lang-python/py-filelock||
 |py-setproctitle|1.1.10|1.3.3|lang-python/py-setproctitle||
 |pyaaf2|1.6.0|1.7.1|lang-python/pyaaf2||
