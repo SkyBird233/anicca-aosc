@@ -2347,6 +2347,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poedit|3.4.1|3.4.2-oss|app-i18n/poedit||
 |poetry|1.6.1|1.8.2|lang-python/poetry||
 |poetry-core|1.7.0|1.9.0|lang-python/poetry-core||
+|polari|42.1|46.0|desktop-gnome/polari||
 |polib|1.1.0|1.2.0|lang-python/polib||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity/polkit-agent-tde-trinity||
 |polkit-kde-agent-1|5.27.11|6.0.4|desktop-kde/polkit-kde-agent-1||
@@ -2700,6 +2701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slop|7.4|7.6|app-utils/slop||
 |slurm|0.4.4|0.5.1|app-network/slurm||
 |smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity/smartcardauth-trinity||
+|smartdns|35|45|app-network/smartdns||
 |smartmontools|7.3|7.4|app-admin/smartmontools||
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity/smb4k-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs/smmap||
@@ -2778,7 +2780,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ss-tproxy|4.6.1|4.8|app-network/ss-tproxy||
 |sshfs|3.6.0|3.7.3|app-network/sshfs||
 |sshpass|1.06|1.10|app-network/sshpass||
-|sslh|1.19c|2.1.1|app-network/sslh||
 |stalonetray|0.8.4|0.8.5|desktop-wm/stalonetray||
 |starship|1.17.1|1.18.2|app-utils/starship||
 |stellarium|0.21.3|24.1|app-scientific/stellarium||
