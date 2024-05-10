@@ -1261,6 +1261,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kross|5.115.0|6.0.4|desktop-kde/kross||
 |kruler|23.08.5|24.02.2|desktop-kde/kruler||
 |krunner|5.115.0|6.0.4|desktop-kde/krunner||
+|krusader|2.7.2|2.8.1|desktop-kde/krusader||
 |krusader-trinity|14.1.0|14.1.2|desktop-trinity/krusader-trinity||
 |ksanecore|23.08.5|24.02.2|desktop-kde/ksanecore||
 |kscope-trinity|14.1.0|14.1.2|desktop-trinity/kscope-trinity||
@@ -2346,7 +2347,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poedit|3.4.1|3.4.2-oss|app-i18n/poedit||
 |poetry|1.6.1|1.8.2|lang-python/poetry||
 |poetry-core|1.7.0|1.9.0|lang-python/poetry-core||
-|polari|42.1|46.0|desktop-gnome/polari||
 |polib|1.1.0|1.2.0|lang-python/polib||
 |polkit-agent-tde-trinity|14.1.0|14.1.2|desktop-trinity/polkit-agent-tde-trinity||
 |polkit-kde-agent-1|5.27.11|6.0.4|desktop-kde/polkit-kde-agent-1||
@@ -2700,7 +2700,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |slop|7.4|7.6|app-utils/slop||
 |slurm|0.4.4|0.5.1|app-network/slurm||
 |smartcardauth-trinity|14.1.0|14.1.2|desktop-trinity/smartcardauth-trinity||
-|smartdns|35|45|app-network/smartdns||
 |smartmontools|7.3|7.4|app-admin/smartmontools||
 |smb4k-trinity|14.1.0|14.1.2|desktop-trinity/smb4k-trinity||
 |smmap|5.0.0|6.0.0|runtime-vcs/smmap||
