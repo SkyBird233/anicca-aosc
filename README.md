@@ -13,6 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity/abakus-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common/abseil-cpp||
 |abyss|2.1.5|2.3.7|app-scientific/abyss||
+|acbs|20240510.2|20240317|app-devel/acbs|Possible downgrade from the current version (20240510.2 -> 20240317)|
 |acccheck|0.2.1|0-2-1|app-penetration/acccheck||
 |accerciser|3.40.0|3.42.0|desktop-gnome/accerciser||
 |accountsservice|22.08.8|23.13.9|app-admin/accountsservice||
@@ -63,7 +64,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|runtime-multimedia/aom||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2023||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2024|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
-|aosc-findupdate|0.4.6|0.3.2|app-utils/aosc-findupdate|Possible downgrade from the current version (0.4.6 -> 0.3.2)|
+|aosc-findupdate|0.4.7|0.3.2|app-utils/aosc-findupdate|Possible downgrade from the current version (0.4.7 -> 0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils/aosc-media-writer||
 |aosc-xdg-menu|20200412|20160217|runtime-data/aosc-xdg-menu|Possible downgrade from the current version (20200412 -> 20160217)|
 |aoscbootstrap|0.4.5|0.4.7|app-utils/aoscbootstrap||
@@ -106,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|app-devel/aspnetcore-runtime-6.0||
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|app-devel/aspnetcore-targeting-pack-6.0||
 |assimp|5.3.1|5.4.0|runtime-multimedia/assimp||
-|ast-grep|0.19.4|0.21.4|app-devel/ast-grep||
+|ast-grep|0.22.0|0.21.4|app-devel/ast-grep|Possible downgrade from the current version (0.22.0 -> 0.21.4)|
 |astroid|2.12.2|3.1.0|lang-python/astroid||
 |astyle|3.1|3.4.14|app-devel/astyle||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32/at-spi2-atk+32||
@@ -280,6 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|app-utils/chntpw||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia/chromaprint||
 |chromium|124.0.6367.118|124.0.6367.155|app-web/chromium||
+|ciel|3.2.4|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.4 -> 3.2.2)|
 |cifs-utils|6.10|7.0|app-network/cifs-utils||
 |cinnamon|5.8.3|6.0.4|desktop-cinnamon/cinnamon||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon/cinnamon-control-center||
@@ -543,18 +545,20 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-lua|5.0.11|5.0.13|app-i18n/fcitx5-lua||
 |fcitx5-m17n|5.1.0|5.1.1|app-i18n/fcitx5-m17n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n/fcitx5-mozc|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
+|fcitx5-pinyin-moegirl|20240509|20240309|app-i18n/fcitx5-pinyin-moegirl|Possible downgrade from the current version (20240509 -> 20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|app-i18n/fcitx5-pinyin-zhwiki|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|app-i18n/fcitx5-rime||
 |fcitx5-sayura|5.1.1|5.1.2|app-i18n/fcitx5-sayura||
 |fcitx5-skk|5.1.0|5.1.3|app-i18n/fcitx5-skk||
 |fcitx5-unikey|5.1.1|5.1.4|app-i18n/fcitx5-unikey||
-|fd|9.0.0|10.0.0|app-utils/fd||
+|fd|10.1.0|10.0.0|app-utils/fd|Possible downgrade from the current version (10.1.0 -> 10.0.0)|
 |fdkaac|1.0.1|1.0.6|app-multimedia/fdkaac||
 |feedbackd|0.2.1|0.3.0|desktop-gnome/feedbackd||
 |feedparser|6.0.8|6.0.11|lang-python/feedparser||
 |feeluown|4.1.1|4.1.3|app-multimedia/feeluown||
 |feeluown-netease|1.0.1|1.0.2|app-multimedia/feeluown-netease||
 |feeluown-qqmusic|1.0.2|1.0.3|app-multimedia/feeluown-qqmusic||
+|feishin|0.7.1|0.6.1|app-multimedia/feishin|Possible downgrade from the current version (0.7.1 -> 0.6.1)|
 |fend|1.4.6|1.4.8|app-utils/fend||
 |ffcall|2.2|2.4|runtime-common/ffcall||
 |ffmpeg|4.4.4|7.0|app-multimedia/ffmpeg||
@@ -1968,7 +1972,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |numactl|2.0.14|2.0.18|app-admin/numactl||
 |numix-icon-theme|20190917|24.04.22|desktop-themes/numix-icon-theme|Possible downgrade from the current version (20190917 -> 24.04.22)|
 |numix-icon-theme-circle|20160927|24.04.22|desktop-themes/numix-icon-theme-circle|Possible downgrade from the current version (20160927 -> 24.04.22)|
-|numpy|1.26.1|1.26.4|lang-python/numpy||
 |nut|2.7.4|2.8.2|app-admin/nut||
 |nvchecker|1.5|2.14.1|app-utils/nvchecker||
 |nvidia|550.54.14|550.78|runtime-display/nvidia||
@@ -2534,7 +2537,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |random2|1.0.1|1.0.2|lang-python/random2||
 |rapidfuzz|3.2.0|3.1.1|lang-python/rapidfuzz|Possible downgrade from the current version (3.2.0 -> 3.1.1)|
 |rapidfuzz-cpp|2.0.0|3.0.4|runtime-common/rapidfuzz-cpp||
-|raptor2|2.0.15|2.0.16|runtime-common/raptor2||
 |rarian|0.8.1|0.8.5|app-doc/rarian||
 |razergenie|0.9.0|1.1.0|app-devices/razergenie||
 |razor-agents|2.85|2.152|app-network/razor-agents||
@@ -2692,7 +2694,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |skanlite|23.08.5|24.02.2|desktop-kde/skanlite||
 |skanpage|23.08.5|24.02.2|desktop-kde/skanpage||
 |skktools|1.3.4|1_3_4|app-i18n/skktools||
-|slirp4netns|1.2.2|1.3.0|app-admin/slirp4netns||
 |slock|1.4|1.5|app-utils/slock||
 |slop|7.4|7.6|app-utils/slop||
 |slurm|0.4.4|0.5.1|app-network/slurm||
@@ -3163,7 +3164,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarn|1.22.17|1.22.22|lang-js/yarn||
 |yaspin|1.2.0|3.0.2|lang-python/yaspin||
 |yaz|5.31.0|5.34.0|runtime-web/yaz||
-|yazi|0.2.3|0.2.5|app-utils/yazi||
 |yelp|42.1|42.2|desktop-gnome/yelp||
 |yelp-tools|42.0|42.1|desktop-gnome/yelp-tools||
 |yelp-xsl|42.0|42.1|desktop-gnome/yelp-xsl||
