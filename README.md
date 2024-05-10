@@ -520,7 +520,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |eza|0.11.0|0.10.1|app-utils/eza|Possible downgrade from the current version (0.11.0 -> 0.10.1)|
 |f2fs-tools|1.15.0|1.16.0|app-admin/f2fs-tools||
 |f3|7.2|8.0|app-utils/f3||
-|faac|1.29.9.2|1.30|app-multimedia/faac||
 |faac+32|1.28|1.30|runtime-optenv32/faac+32||
 |faad2|2.10.0|2.11.1|app-multimedia/faad2||
 |faad2+32|2.10.0|2.11.1|runtime-optenv32/faad2+32||
@@ -711,7 +710,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |glslang|13.1.1|14.2.0|app-imaging/glslang||
 |glslang+32|7.11.3214|14.2.0|runtime-optenv32/glslang+32||
 |glu+32|9.0.1|9.0.3|runtime-optenv32/glu+32||
-|gmic|3.2.6|3.3.5|runtime-imaging/gmic||
 |gmime-3|3.2.7|3.2.14|desktop-gnome/gmime-3||
 |gmp+32|6.1.2|6.3.0|runtime-optenv32/gmp+32||
 |gnome-applets|3.44.0|3.52.0|desktop-gnome/gnome-applets||
@@ -1977,6 +1975,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nvchecker|1.5|2.14.1|app-utils/nvchecker||
 |nvidia|550.54.14|550.78|runtime-display/nvidia||
 |nvidia+32|0|550.78|runtime-optenv32/nvidia+32||
+|nvme-cli|2.6|2.9.1|app-admin/nvme-cli||
 |obs-studio|27.0.0|30.1.2|app-multimedia/obs-studio||
 |ocaml|4.14.2|5.1.1+effect-syntax|lang-ocaml/ocaml||
 |ocaml-csexp|1.5.1|1.5.2|lang-ocaml/ocaml-csexp||
@@ -2092,6 +2091,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |partclone|0.3.20|0.3.27|app-admin/partclone||
 |parted|3.5|3.6|app-admin/parted||
 |partimage|0.6.9|0.7.2|app-admin/partimage||
+|partitionmanager|23.08.5|24.02.2|desktop-kde/partitionmanager||
 |pass|1.7.3|1.7.4|app-utils/pass||
 |pastel|0.2.0|0.2.1|lang-python/pastel||
 |pathlib2|2.3.5|2.3.7.post1|lang-python/pathlib2||
