@@ -937,6 +937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |incremental|17.5.0|22.10.0|lang-python/incremental||
 |indent|2.2.12|2.2.13|app-devel/indent||
 |inetutils|2.4|2.5|app-utils/inetutils||
+|inih|53|58|app-devel/inih||
 |iniparse|0.4|0.5|lang-python/iniparse||
 |iniparser|4.1|4.2|runtime-common/iniparser||
 |inkscape|1.3.2|1_3_2|app-creativity/inkscape||
