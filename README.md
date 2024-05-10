@@ -13,6 +13,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |abakus-trinity|14.1.0|14.1.2|desktop-trinity/abakus-trinity||
 |abseil-cpp|20220623.1|20240116.2|runtime-common/abseil-cpp||
 |abyss|2.1.5|2.3.7|app-scientific/abyss||
+|acbs|20240510.2|20240317|app-devel/acbs|Possible downgrade from the current version (20240510.2 -> 20240317)|
 |acccheck|0.2.1|0-2-1|app-penetration/acccheck||
 |accerciser|3.40.0|3.42.0|desktop-gnome/accerciser||
 |accountsservice|22.08.8|23.13.9|app-admin/accountsservice||
@@ -63,7 +64,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aom|3.8.1|3.9.0|runtime-multimedia/aom||
 |aosc-community-wallpapers-extras-2023|2023.10.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2023||
 |aosc-community-wallpapers-extras-2024|2024.04.1|2024.04.0|desktop-themes/aosc-community-wallpapers-extras-2024|Possible downgrade from the current version (2024.04.1 -> 2024.04.0)|
-|aosc-findupdate|0.4.0|0.3.2|app-utils/aosc-findupdate|Possible downgrade from the current version (0.4.0 -> 0.3.2)|
+|aosc-findupdate|0.4.7|0.3.2|app-utils/aosc-findupdate|Possible downgrade from the current version (0.4.7 -> 0.3.2)|
 |aosc-media-writer|0.3.4|5.0.9|app-utils/aosc-media-writer||
 |aosc-xdg-menu|20200412|20160217|runtime-data/aosc-xdg-menu|Possible downgrade from the current version (20200412 -> 20160217)|
 |aoscbootstrap|0.4.5|0.4.7|app-utils/aoscbootstrap||
@@ -106,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|app-devel/aspnetcore-runtime-6.0||
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|app-devel/aspnetcore-targeting-pack-6.0||
 |assimp|5.3.1|5.4.0|runtime-multimedia/assimp||
-|ast-grep|0.19.4|0.21.4|app-devel/ast-grep||
+|ast-grep|0.22.0|0.21.4|app-devel/ast-grep|Possible downgrade from the current version (0.22.0 -> 0.21.4)|
 |astroid|2.12.2|3.1.0|lang-python/astroid||
 |astyle|3.1|3.4.14|app-devel/astyle||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32/at-spi2-atk+32||
@@ -280,6 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|app-utils/chntpw||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia/chromaprint||
 |chromium|124.0.6367.118|124.0.6367.155|app-web/chromium||
+|ciel|3.2.4|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.4 -> 3.2.2)|
 |cifs-utils|6.10|7.0|app-network/cifs-utils||
 |cinnamon|5.8.3|6.0.4|desktop-cinnamon/cinnamon||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon/cinnamon-control-center||
@@ -435,7 +437,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |docbook-dtd|4.5|5.1|app-doc/docbook-dtd||
 |docbook-sgml|0|4.5|app-doc/docbook-sgml||
 |docbook-xml|0|5.1|app-doc/docbook-xml||
-|docker|25.0.3<br>+tini0.19.0|26.1.1|app-containers/docker|Compound version number '25.0.3+tini0.19.0'|
+|docker|25.0.3<br>+tini0.19.0|26.1.2|app-containers/docker|Compound version number '25.0.3+tini0.19.0'|
 |docker-compose|2.24.6|2.27.0|app-containers/docker-compose||
 |docutils|0.20.1|0.21.2|lang-python/docutils||
 |dolphin|23.08.5|24.02.2|desktop-kde/dolphin||
@@ -543,18 +545,20 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fcitx5-lua|5.0.11|5.0.13|app-i18n/fcitx5-lua||
 |fcitx5-m17n|5.1.0|5.1.1|app-i18n/fcitx5-m17n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n/fcitx5-mozc|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
+|fcitx5-pinyin-moegirl|20240509|20240309|app-i18n/fcitx5-pinyin-moegirl|Possible downgrade from the current version (20240509 -> 20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|app-i18n/fcitx5-pinyin-zhwiki|Compound version number '0.2.3+dict20210823'|
 |fcitx5-rime|5.1.3|5.1.6|app-i18n/fcitx5-rime||
 |fcitx5-sayura|5.1.1|5.1.2|app-i18n/fcitx5-sayura||
 |fcitx5-skk|5.1.0|5.1.3|app-i18n/fcitx5-skk||
 |fcitx5-unikey|5.1.1|5.1.4|app-i18n/fcitx5-unikey||
-|fd|9.0.0|10.0.0|app-utils/fd||
+|fd|10.1.0|10.0.0|app-utils/fd|Possible downgrade from the current version (10.1.0 -> 10.0.0)|
 |fdkaac|1.0.1|1.0.6|app-multimedia/fdkaac||
 |feedbackd|0.2.1|0.3.0|desktop-gnome/feedbackd||
 |feedparser|6.0.8|6.0.11|lang-python/feedparser||
 |feeluown|4.1.1|4.1.3|app-multimedia/feeluown||
 |feeluown-netease|1.0.1|1.0.2|app-multimedia/feeluown-netease||
 |feeluown-qqmusic|1.0.2|1.0.3|app-multimedia/feeluown-qqmusic||
+|feishin|0.7.1|0.6.1|app-multimedia/feishin|Possible downgrade from the current version (0.7.1 -> 0.6.1)|
 |fend|1.4.6|1.4.8|app-utils/fend||
 |ffcall|2.2|2.4|runtime-common/ffcall||
 |ffmpeg|4.4.4|7.0|app-multimedia/ffmpeg||
@@ -1697,7 +1701,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |llvm-runtime+wasi|17.0.6|18.1.5|runtime-wasi/llvm-runtime+wasi||
 |lm-sensors|3.6.0|3-6-0|app-utils/lm-sensors||
 |lmdb|0.9.28|0.9.32|app-database/lmdb||
-|lmms|1.2.2<br>+git20240125|1.2.2|app-creativity/lmms|Compound version number '1.2.2+git20240125'<br>Version number indicates a snapshot (+git) is used|
+|lmms|1.2.2<br>+git20240508|1.2.2|app-creativity/lmms|Compound version number '1.2.2+git20240508'<br>Version number indicates a snapshot (+git) is used|
 |log4cpp|1.1.3|1.1.4|runtime-common/log4cpp||
 |logrotate|3.18.1|3.21.0|app-admin/logrotate||
 |loguru|0.5.3|0.7.2|lang-python/loguru||
@@ -1816,9 +1820,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |menumaker|0.99.12|0.99.14|app-utils/menumaker||
 |mercurial|5.2.1|6.7.3|app-vcs/mercurial||
 |merkuro|23.08.5|24.02.2|desktop-kde/merkuro||
-|mesa|24.0.6<br>+dxheaders1.611.0|24.0.6|runtime-display/mesa|Compound version number '24.0.6+dxheaders1.611.0'|
-|mesa+32|22.1.7|24.0.6|runtime-optenv32/mesa+32||
-|mesa-amber|21.3.9|24.0.6|runtime-display/mesa-amber||
+|mesa|24.0.6<br>+dxheaders1.611.0|24.0.7|runtime-display/mesa|Compound version number '24.0.6+dxheaders1.611.0'|
+|mesa+32|22.1.7|24.0.7|runtime-optenv32/mesa+32||
+|mesa-amber|21.3.9|24.0.7|runtime-display/mesa-amber||
 |messagelib|23.08.5|24.02.2|desktop-kde/messagelib||
 |metacity|3.44.0|3.46.0|desktop-gnome/metacity||
 |mgba|0.9.2|0.10.3|app-games/mgba||
@@ -1949,7 +1953,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nilfs-utils|2.2.9|2.2.11|app-admin/nilfs-utils||
 |ninja|1.12.0|1.11.1.1|app-devel/ninja|Possible downgrade from the current version (1.12.0 -> 1.11.1.1)|
 |nmap|7.93|7.95|app-network/nmap||
-|nodejs|20.12.2|21.7.1|lang-js/nodejs||
+|nodejs|20.13.0|21.7.1|lang-js/nodejs||
 |noip|2.1.9|3.0.0|app-network/noip||
 |noise-suppression-for-voice|0.91|1.03|app-multimedia/noise-suppression-for-voice||
 |nokogiri|1.13.9|1.16.4|lang-ruby/nokogiri||
@@ -2293,8 +2297,8 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pinentry|1.1.0|1.3.0|app-utils/pinentry||
 |pip|22.3.1|24.1b1|lang-python/pip||
 |piper|0.6|0.7|app-utils/piper||
-|pipewire|1.0.4|1.0.5|app-multimedia/pipewire||
-|pipewire-0.2|0.2.7|1.0.5|app-multimedia/pipewire-0.2||
+|pipewire|1.0.4|1.0.6|app-multimedia/pipewire||
+|pipewire-0.2|0.2.7|1.0.6|app-multimedia/pipewire-0.2||
 |pixman|0.43.0|0.43.4|runtime-display/pixman||
 |pixman+32|0.40.0|0.43.4|runtime-optenv32/pixman+32||
 |pkcs11-helper|1.29.0|1.30.0|runtime-cryptography/pkcs11-helper||
@@ -2517,7 +2521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |qrencode|4.0.2|4.1.1|runtime-imaging/qrencode||
 |qscintilla|2.13.1|2.14.1|runtime-common/qscintilla||
 |qsynth|0.5.6|0.9.91|app-multimedia/qsynth||
-|qt-5|5.15.5<br>+webengine5.15.10<br>+webkit5.212.0<br>+kde20220705|5.15.13-lts-lgpl|runtime-desktop/qt-5|Compound version number '5.15.5+webengine5.15.10+webkit5.212.0+kde20220705'|
+|qt-5|5.15.13<br>+webengine5.15.16<br>+webkit5.212.0<br>+kde20240408|5.15.13-lts-lgpl|runtime-desktop/qt-5|Compound version number '5.15.13+webengine5.15.16+webkit5.212.0+kde20240408'<br>Possible downgrade from the current version (5.15.13+webengine5.15.16+webkit5.212.0+kde20240408 -> 5.15.13-lts-lgpl)|
 |qt4-tqt-theme-engine-trinity|14.1.0|14.1.2|desktop-trinity/qt4-tqt-theme-engine-trinity||
 |qtcreator|12.0.1|13.0.1|app-devel/qtcreator||
 |qtkeychain|0.13.2|0.14.3|runtime-desktop/qtkeychain||
@@ -2616,7 +2620,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |s2tc|1.0<br>+git20210317|1.0|runtime-display/s2tc|Compound version number '1.0+git20210317'<br>Version number indicates a snapshot (+git) is used|
 |s2tc+32|20150112|1.0|runtime-optenv32/s2tc+32|Possible downgrade from the current version (20150112 -> 1.0)|
 |s3transfer|0.5.0|0.10.1|lang-python/s3transfer||
-|samba|4.17.2|4.20.0|app-network/samba||
+|samba|4.17.2|4.20.1|app-network/samba||
 |samtools|1.16.1|1.20|app-scientific/samtools||
 |sane-backends|1.0.32|1.3.0|runtime-devices/sane-backends||
 |sanlock|3.8.5|3.9.2|app-admin/sanlock||
@@ -2815,7 +2819,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |syslinux|6.04~pre1|6.03|app-admin/syslinux|Possible downgrade from the current version (6.04~pre1 -> 6.03)|
 |sysprof|3.44.0|46.0|desktop-gnome/sysprof||
 |system-config-printer|1.5.17|1.5.18|app-admin/system-config-printer||
-|systemd|255.3|255.5|app-admin/systemd||
+|systemd|255.3|255.6|app-admin/systemd||
 |systemsettings|5.27.11|6.0.4|desktop-kde/systemsettings||
 |systemtap|4.4|5.1|app-utils/systemtap||
 |sysv-ipc|1.0.1|1.1.0|lang-python/sysv-ipc||
@@ -3161,7 +3165,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |yarn|1.22.17|1.22.22|lang-js/yarn||
 |yaspin|1.2.0|3.0.2|lang-python/yaspin||
 |yaz|5.31.0|5.34.0|runtime-web/yaz||
-|yazi|0.2.3|0.2.5|app-utils/yazi||
 |yelp|42.1|42.2|desktop-gnome/yelp||
 |yelp-tools|42.0|42.1|desktop-gnome/yelp-tools||
 |yelp-xsl|42.0|42.1|desktop-gnome/yelp-xsl||
@@ -3206,4 +3209,3 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |zxing-cpp|1.4.0|2.2.1|app-utils/zxing-cpp||
 |zxtune|5053|5061|app-multimedia/zxtune||
 |zyn-fusion|3.0.5|3.0.6|app-multimedia/zyn-fusion||
-|zziplib|0.13.72|0.13.74|runtime-common/zziplib||
