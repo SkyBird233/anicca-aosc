@@ -1350,7 +1350,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop/libappimage|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl/libapt-pkg-perl||
 |libarchive|3.7.3|3.7.4|runtime-common/libarchive||
-|libart-lgpl|14.1.0|14.1.2|desktop-trinity/libart-lgpl||
 |libass|0.15.1|0.17.1|runtime-multimedia/libass||
 |libass+32|0.15.1|0.17.1|runtime-optenv32/libass+32||
 |libassuan|2.5.3|2.5.7|runtime-common/libassuan||
@@ -1405,6 +1404,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libeconf|0.5.0|0.6.3|runtime-common/libeconf||
 |libedit|20191231<br>+3.1|20230828-3.1|runtime-common/libedit|Compound version number '20191231+3.1'|
 |libepoxy+32|1.2|1.5.10|runtime-optenv32/libepoxy+32||
+|libepubgen|0.1.0|0.1.1|runtime-doc/libepubgen||
 |libertine-fonts|8.0.2|8.1.2|desktop-fonts/libertine-fonts||
 |libesmtp|1.0.6|1.1.0|runtime-network/libesmtp||
 |libetebase|0.5.4|0.5.6|runtime-cryptography/libetebase||
@@ -2401,6 +2401,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |puremagic|1.15|1.23|lang-python/puremagic||
 |purple-matrix|0.0.0<br>+git20210626|0.1.0|app-web/purple-matrix|Compound version number '0.0.0+git20210626'<br>Version number indicates a snapshot (+git) is used|
 |purpose|5.115.0|6.0.4|desktop-kde/purpose||
+|pv|1.6.20|1.8.9|app-utils/pv||
 |py-filelock|3.0.12|3.14.0|lang-python/py-filelock||
 |py-setproctitle|1.1.10|1.3.3|lang-python/py-setproctitle||
 |pyaaf2|1.6.0|1.7.1|lang-python/pyaaf2||
@@ -3134,7 +3135,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xf86-video-r128|6.12.1|6.9.7|runtime-display/xf86-video-r128|Possible downgrade from the current version (6.12.1 -> 6.9.7)|
 |xfsprogs|6.5.0|6.7.0|app-admin/xfsprogs||
 |xine-ui|0.99.12|0.99.14|app-multimedia/xine-ui||
-|xinetd|2.3.15|2.3.15.4|app-network/xinetd||
 |xjadeo|0.8.13|0.8.14|app-multimedia/xjadeo||
 |xkeyboard-config|2.40|2.41|runtime-display/xkeyboard-config||
 |xl2tpd|1.3.15|1.3.18|app-network/xl2tpd||
