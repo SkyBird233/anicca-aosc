@@ -194,7 +194,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boinc|7.24.3|8.0/8.0.1|app-scientific/boinc||
 |bolt|0.9.1|0.9.7|app-admin/bolt||
 |bomber|23.08.5|24.02.2|desktop-kde/bomber||
-|boost|1.83.0|1.85.0|runtime-common/boost||
 |boost+32|1.63.0|1.85.0|runtime-optenv32/boost+32||
 |borgbackup|1.1.17|1.2.8|app-utils/borgbackup||
 |botan|1.10.17|3.4.0|runtime-cryptography/botan||
@@ -624,6 +623,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fribidi+32|1.0.10|1.0.14|runtime-optenv32/fribidi+32||
 |functools32|3.2.3<br>+2|3.2.3-2|lang-python/functools32|Compound version number '3.2.3+2'|
 |fuse-exfat|1.3.0|1.4.0|app-admin/fuse-exfat||
+|fuse-python|0.3.1|1.0.7|lang-python/fuse-python||
 |future|0.17.0|1.0.0|lang-python/future||
 |futures|3.2.0|3.4.0|lang-python/futures||
 |fuzzel|1.9.2|1.10.2|app-utils/fuzzel||
@@ -1764,6 +1764,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |marco|1.26.2|1.28.1|desktop-mate/marco||
 |mariadb|10.9.4|11.4.1|app-database/mariadb||
 |markdown|3.3.4|3.6|lang-python/markdown||
+|markdownpart|23.08.5|24.02.2|desktop-kde/markdownpart||
 |markupsafe|2.1.1|2.1.5|lang-python/markupsafe||
 |marshmallow|3.20.2|3.21.2|lang-python/marshmallow||
 |mat2|0.13.0|0.6.1|app-utils/mat2|Possible downgrade from the current version (0.13.0 -> 0.6.1)|
@@ -2890,6 +2891,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tellico-trinity|14.1.0|14.1.2|desktop-trinity/tellico-trinity||
 |telly-skout|23.08.5|24.02.2|desktop-kde/telly-skout||
 |template-glib|3.28.0|3.36.2|desktop-gnome/template-glib||
+|tepl|6.0.2|6.9.0|runtime-editors/tepl||
 |termcolor|1.1.0|2.4.0|lang-python/termcolor||
 |terminaltables|3.1.0|3.1.10|lang-python/terminaltables||
 |terminator|2.1.1|2.1.3|desktop-gnome/terminator||
