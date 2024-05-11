@@ -16,6 +16,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acbs|20240510.2|20240317|app-devel/acbs|Possible downgrade from the current version (20240510.2 -> 20240317)|
 |acccheck|0.2.1|0-2-1|app-penetration/acccheck||
 |accerciser|3.40.0|3.42.0|desktop-gnome/accerciser||
+|accountsservice|22.08.8|23.13.9|app-admin/accountsservice||
 |ack|3.2.0|3.7.0|app-utils/ack||
 |acl|2.3.1|2.3.2|app-utils/acl||
 |acl+32|2.2.52|2.3.2|runtime-optenv32/acl+32||
