@@ -16,7 +16,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |acbs|20240510.2|20240317|app-devel/acbs|Possible downgrade from the current version (20240510.2 -> 20240317)|
 |acccheck|0.2.1|0-2-1|app-penetration/acccheck||
 |accerciser|3.40.0|3.42.0|desktop-gnome/accerciser||
-|accountsservice|22.08.8|23.13.9|app-admin/accountsservice||
 |ack|3.2.0|3.7.0|app-utils/ack||
 |acl|2.3.1|2.3.2|app-utils/acl||
 |acl+32|2.2.52|2.3.2|runtime-optenv32/acl+32||
@@ -1534,6 +1533,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libogg+32|1.3.4|1.3.5|runtime-optenv32/libogg+32||
 |libopenraw|0.1.3|0.3.7|runtime-imaging/libopenraw||
 |liborcus|0.17.2|0.19.2|runtime-productivity/liborcus||
+|libosinfo|1.10.0|1.11.0|runtime-common/libosinfo||
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis/libosmgpsmap||
 |libp11|0.4.10|0.4.12|runtime-cryptography/libp11||
 |libpano13|2.9.19|2.9.22|runtime-imaging/libpano13||
