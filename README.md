@@ -2481,6 +2481,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-tabulate|0.8.3|0.9.0|lang-python/python-tabulate||
 |python-xapp|2.0.1|2.4.1|lang-python/python-xapp||
 |python-xlib|0.26|0.33|lang-python/python-xlib||
+|python-xmp-toolkit|2.0.1|2.0.2|lang-python/python-xmp-toolkit||
 |pythondialog|3.3.0|3.5.3|lang-python/pythondialog||
 |pytools|2019.1|2024.1.2|lang-python/pytools||
 |pytz|2021.1|2024.1|lang-python/pytz||
@@ -3029,6 +3030,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |volk|2.5.0|3.1.2|runtime-common/volk||
 |vorbis-tools|1.4.0|1.4.2|app-multimedia/vorbis-tools||
 |vpnc|0.5.3r550|0.5.3|app-network/vpnc||
+|vrms|1.27|1.33|app-utils/vrms||
 |vsftpd|3.0.3|3.0.5|app-network/vsftpd||
 |vte|0.68.0|0.76.1|runtime-desktop/vte||
 |vulkan-extensionlayer|1.3.280.0|1.3.283|runtime-display/vulkan-extensionlayer||
