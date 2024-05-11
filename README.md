@@ -194,6 +194,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |boinc|7.24.3|8.0/8.0.1|app-scientific/boinc||
 |bolt|0.9.1|0.9.7|app-admin/bolt||
 |bomber|23.08.5|24.02.2|desktop-kde/bomber||
+|boost|1.83.0|1.85.0|runtime-common/boost||
 |boost+32|1.63.0|1.85.0|runtime-optenv32/boost+32||
 |borgbackup|1.1.17|1.2.8|app-utils/borgbackup||
 |botan|1.10.17|3.4.0|runtime-cryptography/botan||
@@ -1533,7 +1534,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libogg+32|1.3.4|1.3.5|runtime-optenv32/libogg+32||
 |libopenraw|0.1.3|0.3.7|runtime-imaging/libopenraw||
 |liborcus|0.17.2|0.19.2|runtime-productivity/liborcus||
-|libosinfo|1.10.0|1.11.0|runtime-common/libosinfo||
 |libosmgpsmap|1.1.0|1.2.0|runtime-gis/libosmgpsmap||
 |libp11|0.4.10|0.4.12|runtime-cryptography/libp11||
 |libpano13|2.9.19|2.9.22|runtime-imaging/libpano13||
