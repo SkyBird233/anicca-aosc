@@ -3072,7 +3072,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|app-emulation/wine|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network/wireguard|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network/wireguard-tools||
-|wireless-regdb|2022.08.12|2024.01.23|app-network/wireless-regdb||
+|wireless-regdb|2022.08.12|2024.05.08|app-network/wireless-regdb||
 |wireless-tools|30.pre9|29|app-network/wireless-tools|Possible downgrade from the current version (30.pre9 -> 29)|
 |wireplumber|0.5.0|0.5.2|app-multimedia/wireplumber||
 |wireshark|4.2.3|4.2.4|app-network/wireshark||
