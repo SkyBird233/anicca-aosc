@@ -2553,7 +2553,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |retext|7.2.2|8.0.2|app-editors/retext||
 |rexml|3.2.5|3.2.6|lang-ruby/rexml||
 |rfc3986|1.4.0|2.0.0|lang-python/rfc3986||
-|rhythmbox|3.4.4|3.4.7|app-multimedia/rhythmbox||
 |rime-cantonese|2023.06.15<br>+git20230912|2023.06.15|app-i18n/rime-cantonese|Compound version number '2023.06.15+git20230912'<br>Version number indicates a snapshot (+git) is used|
 |rime-emoji|13.0<br>+git20230826|15.0|app-i18n/rime-emoji|Compound version number '13.0+git20230826'<br>Version number indicates a snapshot (+git) is used|
 |rinutils|0.4.1|0.10.2|runtime-common/rinutils||
@@ -2748,7 +2747,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |sqlite|3.45.1|3.45.3|app-database/sqlite||
 |sqlite+32|3.32.3|3.45.3|runtime-optenv32/sqlite+32||
 |sqlite-fdw|2.1.0|2.4.0|app-database/sqlite-fdw||
-|sqlitebrowser|3.12.1|83649a3-3357|app-database/sqlitebrowser||
 |sqlmap|1.8.2|1.8.4|app-penetration/sqlmap||
 |sqlparse|0.4.1|0.5.0|lang-python/sqlparse||
 |squashfs-tools|4.5|4.6.1|app-admin/squashfs-tools||
