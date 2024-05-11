@@ -1379,6 +1379,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdnet|1.12|1.18.0|runtime-network/libdnet||
 |libdrm+32|2.4.113|2.4.120|runtime-optenv32/libdrm+32||
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32/libdvdcss+32||
+|libdvdnav+32|5.0.3|6.1.1|runtime-optenv32/libdvdnav+32||
 |libdvdread|6.1.1|6.1.3|runtime-multimedia/libdvdread||
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32/libdvdread+32||
 |libdwarf|20210305|0.9.2|runtime-common/libdwarf|Possible downgrade from the current version (20210305 -> 0.9.2)|
