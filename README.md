@@ -596,6 +596,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia/freealut||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32/freealut+32||
 |freecell-solver|6.2.0|6.8.0|app-games/freecell-solver||
+|freeciv|2.6.5|3.1.1|app-games/freeciv||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32/freeglut+32||
 |freerdp|2.11.2|3.5.1|app-network/freerdp||
 |freetds|1.00.112|1.4.19|runtime-database/freetds||
@@ -2936,6 +2937,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python/trollius||
 |trove-classifiers|2024.1.31|2024.4.10|lang-python/trove-classifiers||
 |tslib|1.21|1.23|runtime-devices/tslib||
+|ttf-misaki|2021.05.05|2021-05-05|desktop-fonts/ttf-misaki||
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts/ttf-tibetan-machine-unicode||
 |ttf-vlgothic|20200720|20220612|desktop-fonts/ttf-vlgothic||
 |ttyd|1.6.3|1.7.7|app-utils/ttyd||
