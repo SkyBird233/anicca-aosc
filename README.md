@@ -304,7 +304,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloc|1.84|2.00|app-utils/cloc||
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common/clucene|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils/clzip||
-|cmake|3.29.2|3.29.3|app-devel/cmake||
 |cmark|0.30.3|0.31.0|runtime-doc/cmark||
 |cmus|2.9.1|2.10.0|app-multimedia/cmus||
 |cock|0.6.0|0.11.0|lang-python/cock||
@@ -639,7 +638,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia/gcdemu||
 |gcr|3.41.1|4.3.0|desktop-gnome/gcr||
 |gdal|3.8.4|3.8.5|runtime-gis/gdal||
-|gdb|14.1|14.2|app-devel/gdb||
 |gdb+cross-amd64|8.2|14.2|app-devel/gdb+cross-amd64||
 |gdb+cross-arm64|12.1|14.2|app-devel/gdb+cross-arm64||
 |gdb+cross-mips64r6el|12.1|14.2|app-devel/gdb+cross-mips64r6el||
@@ -1381,7 +1379,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libdnet|1.12|1.18.0|runtime-network/libdnet||
 |libdrm+32|2.4.113|2.4.120|runtime-optenv32/libdrm+32||
 |libdvdcss+32|1.4.2|1.4.3|runtime-optenv32/libdvdcss+32||
-|libdvdnav+32|5.0.3|6.1.1|runtime-optenv32/libdvdnav+32||
 |libdvdread|6.1.1|6.1.3|runtime-multimedia/libdvdread||
 |libdvdread+32|5.0.3|6.1.3|runtime-optenv32/libdvdread+32||
 |libdwarf|20210305|0.9.2|runtime-common/libdwarf|Possible downgrade from the current version (20210305 -> 0.9.2)|
@@ -1722,7 +1719,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|lang-python/lxml||
 |lxpanel|0.9.3|0.10.1|desktop-lxde/lxpanel||
 |lxterminal|0.3.2|0.4.0|desktop-lxde/lxterminal||
-|lychee|0.14.0|0.15.1|app-web/lychee||
 |lynx|2.9.0|2.9.1|app-web/lynx||
 |lzd|1.0|1.4|app-utils/lzd||
 |lzip|1.23|1.24.1|app-utils/lzip||
@@ -2269,7 +2265,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pexpect|4.8.0|4.9.0|lang-python/pexpect||
 |pgxnclient|1.3.1|1.3.2|app-database/pgxnclient||
 |phonon|4.11.1|4.12.0|desktop-kde/phonon||
-|php|8.3.6|8.3.7|app-devel/php||
 |picard|2.8.5|2.11|app-multimedia/picard||
 |picmi|23.08.5|24.02.2|desktop-kde/picmi||
 |picocom|3.1|2023-04|app-utils/picocom||
@@ -3125,7 +3120,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xl2tpd|1.3.15|1.3.18|app-network/xl2tpd||
 |xmlrpc-c|1.54.06|1.59.03|runtime-common/xmlrpc-c||
 |xmlsec|1.2.36|1.3.4|runtime-common/xmlsec||
-|xorg-server|21.1.12|21.1.13|runtime-display/xorg-server||
 |xournalpp|1.1.3|1.2.3|runtime-productivity/xournalpp||
 |xpra|5.0.8|6.0|app-network/xpra||
 |xray|1.8.4|1.8.11|app-network/xray||
@@ -3136,7 +3130,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsimd|10.0.0|13.0.0|runtime-common/xsimd||
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils/xss-lock|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xviewer|3.0.2|3.4.4|app-imaging/xviewer||
-|xwayland|23.2.5|23.2.6|runtime-display/xwayland||
 |xxhash|0.8.1|0.8.2|runtime-common/xxhash||
 |xz|5.4.1|5.6.1|app-utils/xz||
 |xz+32|5.2.5|5.6.1|runtime-optenv32/xz+32||
