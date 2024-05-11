@@ -24,6 +24,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts/adobe-source-code-pro|Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|desktop-fonts/adobe-source-han-sans|Possible downgrade from the current version (2.004 -> 2.004R)|
 |adobe-source-han-serif|2.002|2.002R|desktop-fonts/adobe-source-han-serif|Possible downgrade from the current version (2.002 -> 2.002R)|
+|adobe-source-sans|3.052|3.052R|desktop-fonts/adobe-source-sans|Possible downgrade from the current version (3.052 -> 3.052R)|
 |adobe-source-serif|4.005|4.005R|desktop-fonts/adobe-source-serif|Possible downgrade from the current version (4.005 -> 4.005R)|
 |adwaita-icon-theme|42.0|46.0|desktop-gnome/adwaita-icon-theme||
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome/adwaita-qt||
@@ -532,24 +533,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python/fastimport||
 |fatattr|1.0.1|1.0.1.orig|app-utils/fatattr|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python/faulthandler||
-|fcitx5|5.1.5|5.1.9|app-i18n/fcitx5||
-|fcitx5-anthy|5.1.2|5.1.4|app-i18n/fcitx5-anthy||
-|fcitx5-chewing|5.1.1|5.1.3|app-i18n/fcitx5-chewing||
-|fcitx5-chinese-addons|5.1.2|5.1.5|app-i18n/fcitx5-chinese-addons||
-|fcitx5-configtool|5.1.2|5.1.5|app-i18n/fcitx5-configtool||
-|fcitx5-gtk|5.1.0|5.1.3|app-i18n/fcitx5-gtk||
-|fcitx5-hangul|5.1.1|5.1.3|app-i18n/fcitx5-hangul||
-|fcitx5-kkc|5.1.0|5.1.3|app-i18n/fcitx5-kkc||
-|fcitx5-libthai|5.1.1|5.1.3|app-i18n/fcitx5-libthai||
-|fcitx5-lua|5.0.11|5.0.13|app-i18n/fcitx5-lua||
-|fcitx5-m17n|5.1.0|5.1.1|app-i18n/fcitx5-m17n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n/fcitx5-mozc|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-moegirl|20240509|20240309|app-i18n/fcitx5-pinyin-moegirl|Possible downgrade from the current version (20240509 -> 20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|app-i18n/fcitx5-pinyin-zhwiki|Compound version number '0.2.3+dict20210823'|
-|fcitx5-rime|5.1.3|5.1.6|app-i18n/fcitx5-rime||
-|fcitx5-sayura|5.1.1|5.1.2|app-i18n/fcitx5-sayura||
-|fcitx5-skk|5.1.0|5.1.3|app-i18n/fcitx5-skk||
-|fcitx5-unikey|5.1.1|5.1.4|app-i18n/fcitx5-unikey||
 |fd|10.1.0|10.0.0|app-utils/fd|Possible downgrade from the current version (10.1.0 -> 10.0.0)|
 |fdkaac|1.0.1|1.0.6|app-multimedia/fdkaac||
 |feedbackd|0.2.1|0.3.0|desktop-gnome/feedbackd||
@@ -610,7 +596,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |freealut|1.1.0|1_1_0|runtime-multimedia/freealut||
 |freealut+32|1.1.0|1_1_0|runtime-optenv32/freealut+32||
 |freecell-solver|6.2.0|6.8.0|app-games/freecell-solver||
-|freeciv|2.6.5|3.1.1|app-games/freeciv||
 |freeglut+32|3.0.0|3.4.0|runtime-optenv32/freeglut+32||
 |freerdp|2.11.2|3.5.1|app-network/freerdp||
 |freetds|1.00.112|1.4.19|runtime-database/freetds||
@@ -1244,6 +1229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kplotting|5.115.0|6.0.4|desktop-kde/kplotting||
 |kpmcore|23.08.5|24.02.2|desktop-kde/kpmcore||
 |kpty|5.115.0|6.0.4|desktop-kde/kpty||
+|kpublictransport|23.08.5|24.02.2|desktop-kde/kpublictransport||
 |kqtquickcharts|23.08.5|24.02.2|desktop-kde/kqtquickcharts||
 |kquickcharts|5.115.0|6.0.4|desktop-kde/kquickcharts||
 |kquickimageeditor|0.2.0|0.3.0|desktop-kde/kquickimageeditor||
@@ -1452,7 +1438,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|runtime-network/libidn||
 |libidn+32|1.33|1.42|runtime-optenv32/libidn+32||
 |libidn2|2.3.0|2.3.7|runtime-network/libidn2||
-|libime|1.1.3|1.1.7|runtime-i18n/libime||
 |libindi|2.0.5|2.0.7|runtime-scientific/libindi||
 |libinput|1.24.0|1.25.0|runtime-devices/libinput||
 |libintl-perl|1.29|1.33|lang-perl/libintl-perl||
@@ -1840,7 +1825,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minizip|1.2.11|1.3.1|runtime-common/minizip||
 |minuet|23.08.5|24.02.2|desktop-kde/minuet||
 |mitmproxy|7.0.4|10.3.0|app-network/mitmproxy||
-|mixxx|2.3.0|2.4.0|app-creativity/mixxx||
+|mixxx|2.4.1|2.4.0|app-creativity/mixxx|Possible downgrade from the current version (2.4.1 -> 2.4.0)|
 |mjpegtools|2.1.0|2.2.1|app-multimedia/mjpegtools||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32/mjpegtools+32||
 |mkvtoolnix|79.0|84.0|app-multimedia/mkvtoolnix||
@@ -2313,6 +2298,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-framework|5.115.0|6.0.4|desktop-kde/plasma-framework||
 |plasma-integration|5.27.11|6.0.4|desktop-kde/plasma-integration||
 |plasma-mobile|5.27.5|6.0.4|desktop-kde/plasma-mobile||
+|plasma-nano|5.27.11|6.0.4|desktop-kde/plasma-nano||
 |plasma-nm|5.27.11|6.0.4|desktop-kde/plasma-nm||
 |plasma-pa|5.27.11|6.0.4|desktop-kde/plasma-pa||
 |plasma-pk-updates|0.3.2|6.0.4|desktop-kde/plasma-pk-updates||
@@ -2355,6 +2341,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler|22.08.0|24.05.0|runtime-doc/poppler||
 |poppler+32|0.66.0|24.05.0|runtime-optenv32/poppler+32||
 |poppler-data|0.4.9|0.4.12|runtime-data/poppler-data||
+|popt|1.18|1.19|runtime-common/popt||
 |popt+32|1.16|1.19|runtime-optenv32/popt+32||
 |portaudio|19<br>+20140130|190600_20161030|runtime-multimedia/portaudio|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32/portaudio+32|Compound version number '19+20140130'|
@@ -2949,7 +2936,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |trollius|2.1|2.2.1|lang-python/trollius||
 |trove-classifiers|2024.1.31|2024.4.10|lang-python/trove-classifiers||
 |tslib|1.21|1.23|runtime-devices/tslib||
-|ttf-misaki|2021.05.05|2021-05-05|desktop-fonts/ttf-misaki||
 |ttf-tibetan-machine-unicode|1.901b|1.901|desktop-fonts/ttf-tibetan-machine-unicode||
 |ttf-vlgothic|20200720|20220612|desktop-fonts/ttf-vlgothic||
 |ttyd|1.6.3|1.7.7|app-utils/ttyd||
@@ -3108,7 +3094,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapps|2.6.1|2.8.2|runtime-desktop/xapps||
 |xarchiver|0.5.4.15|0.5.4.23|app-utils/xarchiver||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils/xcalibrate|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
-|xcb-imdkit|1.0.5|1.0.8|runtime-i18n/xcb-imdkit||
 |xcb-proto|1.16.0|1.17.0|runtime-display/xcb-proto||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32/xcb-proto+32||
 |xcffib|0.7.0|1.5.0|lang-python/xcffib||
