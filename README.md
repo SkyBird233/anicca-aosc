@@ -281,7 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|app-utils/chntpw||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia/chromaprint||
 |chromium|124.0.6367.118|124.0.6367.155|app-web/chromium||
-|ciel|3.2.4|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.4 -> 3.2.2)|
+|ciel|3.2.5|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.5 -> 3.2.2)|
 |cifs-utils|6.10|7.0|app-network/cifs-utils||
 |cinnamon|5.8.3|6.0.4|desktop-cinnamon/cinnamon||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon/cinnamon-control-center||
@@ -533,24 +533,9 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |fastimport|0.9.8|0.9.14|lang-python/fastimport||
 |fatattr|1.0.1|1.0.1.orig|app-utils/fatattr|Possible downgrade from the current version (1.0.1 -> 1.0.1.orig)|
 |faulthandler|3.1|3.2|lang-python/faulthandler||
-|fcitx5|5.1.5|5.1.9|app-i18n/fcitx5||
-|fcitx5-anthy|5.1.2|5.1.4|app-i18n/fcitx5-anthy||
-|fcitx5-chewing|5.1.1|5.1.3|app-i18n/fcitx5-chewing||
-|fcitx5-chinese-addons|5.1.2|5.1.5|app-i18n/fcitx5-chinese-addons||
-|fcitx5-configtool|5.1.2|5.1.5|app-i18n/fcitx5-configtool||
-|fcitx5-gtk|5.1.0|5.1.3|app-i18n/fcitx5-gtk||
-|fcitx5-hangul|5.1.1|5.1.3|app-i18n/fcitx5-hangul||
-|fcitx5-kkc|5.1.0|5.1.3|app-i18n/fcitx5-kkc||
-|fcitx5-libthai|5.1.1|5.1.3|app-i18n/fcitx5-libthai||
-|fcitx5-lua|5.0.11|5.0.13|app-i18n/fcitx5-lua||
-|fcitx5-m17n|5.1.0|5.1.1|app-i18n/fcitx5-m17n||
 |fcitx5-mozc|2.29.5160.102<br>+fcitx5<br>+git20230919|2.29.5374.102|app-i18n/fcitx5-mozc|Compound version number '2.29.5160.102+fcitx5+git20230919'<br>Version number indicates a snapshot (+git) is used|
 |fcitx5-pinyin-moegirl|20240509|20240309|app-i18n/fcitx5-pinyin-moegirl|Possible downgrade from the current version (20240509 -> 20240309)|
 |fcitx5-pinyin-zhwiki|0.2.3<br>+dict20210823|0.2.4|app-i18n/fcitx5-pinyin-zhwiki|Compound version number '0.2.3+dict20210823'|
-|fcitx5-rime|5.1.3|5.1.6|app-i18n/fcitx5-rime||
-|fcitx5-sayura|5.1.1|5.1.2|app-i18n/fcitx5-sayura||
-|fcitx5-skk|5.1.0|5.1.3|app-i18n/fcitx5-skk||
-|fcitx5-unikey|5.1.1|5.1.4|app-i18n/fcitx5-unikey||
 |fd|10.1.0|10.0.0|app-utils/fd|Possible downgrade from the current version (10.1.0 -> 10.0.0)|
 |fdkaac|1.0.1|1.0.6|app-multimedia/fdkaac||
 |feedbackd|0.2.1|0.3.0|desktop-gnome/feedbackd||
@@ -1454,7 +1439,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libidn|1.41|1.42|runtime-network/libidn||
 |libidn+32|1.33|1.42|runtime-optenv32/libidn+32||
 |libidn2|2.3.0|2.3.7|runtime-network/libidn2||
-|libime|1.1.3|1.1.7|runtime-i18n/libime||
 |libindi|2.0.5|2.0.7|runtime-scientific/libindi||
 |libinput|1.24.0|1.25.0|runtime-devices/libinput||
 |libintl-perl|1.29|1.33|lang-perl/libintl-perl||
@@ -1842,7 +1826,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |minizip|1.2.11|1.3.1|runtime-common/minizip||
 |minuet|23.08.5|24.02.2|desktop-kde/minuet||
 |mitmproxy|7.0.4|10.3.0|app-network/mitmproxy||
-|mixxx|2.3.0|2.4.0|app-creativity/mixxx||
+|mixxx|2.4.1|2.4.0|app-creativity/mixxx|Possible downgrade from the current version (2.4.1 -> 2.4.0)|
 |mjpegtools|2.1.0|2.2.1|app-multimedia/mjpegtools||
 |mjpegtools+32|2.1.0|2.2.1|runtime-optenv32/mjpegtools+32||
 |mkvtoolnix|79.0|84.0|app-multimedia/mkvtoolnix||
@@ -3088,7 +3072,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |wine|9.8<br>+gecko2.47.4<br>+mono9.1.0|9.8|app-emulation/wine|Compound version number '9.8+gecko2.47.4+mono9.1.0'|
 |wireguard|1|0.0.20191219|app-network/wireguard|Possible downgrade from the current version (1 -> 0.0.20191219)|
 |wireguard-tools|1.0.20200827|1.0.20210914|app-network/wireguard-tools||
-|wireless-regdb|2022.08.12|2024.01.23|app-network/wireless-regdb||
+|wireless-regdb|2022.08.12|2024.05.08|app-network/wireless-regdb||
 |wireless-tools|30.pre9|29|app-network/wireless-tools|Possible downgrade from the current version (30.pre9 -> 29)|
 |wireplumber|0.5.0|0.5.2|app-multimedia/wireplumber||
 |wireshark|4.2.3|4.2.4|app-network/wireshark||
@@ -3112,7 +3096,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xapps|2.6.1|2.8.2|runtime-desktop/xapps||
 |xarchiver|0.5.4.15|0.5.4.23|app-utils/xarchiver||
 |xcalibrate|0.9<br>+git20200330|0.9|app-utils/xcalibrate|Compound version number '0.9+git20200330'<br>Version number indicates a snapshot (+git) is used|
-|xcb-imdkit|1.0.5|1.0.8|runtime-i18n/xcb-imdkit||
 |xcb-proto|1.16.0|1.17.0|runtime-display/xcb-proto||
 |xcb-proto+32|1.14|1.17.0|runtime-optenv32/xcb-proto+32||
 |xcffib|0.7.0|1.5.0|lang-python/xcffib||
