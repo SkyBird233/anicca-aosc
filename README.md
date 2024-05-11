@@ -24,7 +24,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |adobe-source-code-pro|2.042|2.042-u/1.062-i/1.026-vf|desktop-fonts/adobe-source-code-pro|Possible downgrade from the current version (2.042 -> 2.042-u/1.062-i/1.026-vf)|
 |adobe-source-han-sans|2.004|2.004R|desktop-fonts/adobe-source-han-sans|Possible downgrade from the current version (2.004 -> 2.004R)|
 |adobe-source-han-serif|2.002|2.002R|desktop-fonts/adobe-source-han-serif|Possible downgrade from the current version (2.002 -> 2.002R)|
-|adobe-source-sans|3.052|3.052R|desktop-fonts/adobe-source-sans|Possible downgrade from the current version (3.052 -> 3.052R)|
 |adobe-source-serif|4.005|4.005R|desktop-fonts/adobe-source-serif|Possible downgrade from the current version (4.005 -> 4.005R)|
 |adwaita-icon-theme|42.0|46.0|desktop-gnome/adwaita-icon-theme||
 |adwaita-qt|1.4.1|1.4.2|desktop-gnome/adwaita-qt||
@@ -1127,6 +1126,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |khelpcenter|23.08.5|24.02.2|desktop-kde/khelpcenter||
 |kholidays|5.115.0|6.0.4|desktop-kde/kholidays||
 |khotkeys|5.27.11|6.0.4|desktop-kde/khotkeys||
+|khtml|5.115.0|6.0.4|desktop-kde/khtml||
 |ki18n|5.115.0|6.0.4|desktop-kde/ki18n||
 |kicad|7.0.0|8.0.2|app-electronics/kicad||
 |kiconthemes|5.115.0|6.0.4|desktop-kde/kiconthemes||
@@ -1244,7 +1244,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kplotting|5.115.0|6.0.4|desktop-kde/kplotting||
 |kpmcore|23.08.5|24.02.2|desktop-kde/kpmcore||
 |kpty|5.115.0|6.0.4|desktop-kde/kpty||
-|kpublictransport|23.08.5|24.02.2|desktop-kde/kpublictransport||
 |kqtquickcharts|23.08.5|24.02.2|desktop-kde/kqtquickcharts||
 |kquickcharts|5.115.0|6.0.4|desktop-kde/kquickcharts||
 |kquickimageeditor|0.2.0|0.3.0|desktop-kde/kquickimageeditor||
@@ -2314,7 +2313,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |plasma-framework|5.115.0|6.0.4|desktop-kde/plasma-framework||
 |plasma-integration|5.27.11|6.0.4|desktop-kde/plasma-integration||
 |plasma-mobile|5.27.5|6.0.4|desktop-kde/plasma-mobile||
-|plasma-nano|5.27.11|6.0.4|desktop-kde/plasma-nano||
 |plasma-nm|5.27.11|6.0.4|desktop-kde/plasma-nm||
 |plasma-pa|5.27.11|6.0.4|desktop-kde/plasma-pa||
 |plasma-pk-updates|0.3.2|6.0.4|desktop-kde/plasma-pk-updates||
@@ -2357,7 +2355,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler|22.08.0|24.05.0|runtime-doc/poppler||
 |poppler+32|0.66.0|24.05.0|runtime-optenv32/poppler+32||
 |poppler-data|0.4.9|0.4.12|runtime-data/poppler-data||
-|popt|1.18|1.19|runtime-common/popt||
 |popt+32|1.16|1.19|runtime-optenv32/popt+32||
 |portaudio|19<br>+20140130|190600_20161030|runtime-multimedia/portaudio|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32/portaudio+32|Compound version number '19+20140130'|
