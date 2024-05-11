@@ -281,7 +281,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chntpw|1.1|140201|app-utils/chntpw||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia/chromaprint||
 |chromium|124.0.6367.118|124.0.6367.155|app-web/chromium||
-|ciel|3.2.4|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.4 -> 3.2.2)|
+|ciel|3.2.5|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.5 -> 3.2.2)|
 |cifs-utils|6.10|7.0|app-network/cifs-utils||
 |cinnamon|5.8.3|6.0.4|desktop-cinnamon/cinnamon||
 |cinnamon-control-center|5.8.1|6.0.1|desktop-cinnamon/cinnamon-control-center||
@@ -2272,7 +2272,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-x11-protocol-other|30|31|lang-perl/perl-x11-protocol-other||
 |perl-xml-libxml|2.0201|2.0210|lang-perl/perl-xml-libxml||
 |perl-xml-libxslt|1.96|2.002001|lang-perl/perl-xml-libxslt||
-|perl-xml-namespacesupport|1.12<br>+9|1.12|lang-perl/perl-xml-namespacesupport|Compound version number '1.12+9'<br>Possible downgrade from the current version (1.12+9 -> 1.12)|
 |perl-xml-parser|2.44|2.47|lang-perl/perl-xml-parser||
 |perl-xml-parser+32|999|2.47|runtime-optenv32/perl-xml-parser+32|Possible downgrade from the current version (999 -> 2.47)|
 |perl-xml-sax|1.00|1.02|lang-perl/perl-xml-sax||
