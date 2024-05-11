@@ -14,7 +14,7 @@ new DataTable("#pkgsupdate", {
     { title: "Package" },
     { title: "Repo Version" },
     { title: "New Version" },
-    { title: "Path" },
+    { title: "Category" },
     { title: "Warnings" },
   ],
   scrollX: true,
