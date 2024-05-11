@@ -1631,6 +1631,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libwpg|0.3.3|0.3.4|runtime-productivity/libwpg||
 |libwps|0.4.10|0.4.14|runtime-productivity/libwps||
 |libwww-perl|6.33|6.77|lang-perl/libwww-perl||
+|libx86|1.1|3.5|runtime-common/libx86||
 |libx86emu|3.1|3.5|runtime-common/libx86emu||
 |libxau+32|1.0.9|1.0.11|runtime-optenv32/libxau+32||
 |libxaw3d|1.6.3|1.6.6|runtime-display/libxaw3d||
@@ -1875,6 +1876,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mutagen|1.46.0|1.47.0|app-multimedia/mutagen||
 |mutter|42.4|46.1|desktop-gnome/mutter||
 |mxml|3.2|4.0.3|runtime-common/mxml||
+|mycli|1.23.2|1.27.2|app-database/mycli||
 |mygpoclient|1.8|1.9|lang-python/mygpoclient||
 |n2n|2.8|3.1.1|app-network/n2n||
 |nano|8.0<br>+nanorc2024.1.16|8.0|app-editors/nano|Compound version number '8.0+nanorc2024.1.16'|
