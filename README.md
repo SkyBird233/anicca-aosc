@@ -2468,7 +2468,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |python-linux-procfs|0.7.1|0.7.3|lang-python/python-linux-procfs||
 |python-ly|0.9.6|0.9.7|lang-python/python-ly||
 |python-lz4|2.1.6|4.3.3|lang-python/python-lz4||
-|python-markdown-math|0.6|0.8|lang-python/python-markdown-math||
 |python-mpd2|3.0.5|3.1.1|lang-python/python-mpd2||
 |python-msgpack|1.0.2|1.0.8|lang-python/python-msgpack||
 |python-node-semver|0.8.0|0.9.0|lang-python/python-node-semver||
