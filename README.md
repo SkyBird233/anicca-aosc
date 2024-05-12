@@ -1788,6 +1788,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|desktop-kde/mbox-importer||
 |mbpfan|2.2.1|2.4.0|app-admin/mbpfan||
 |mccabe|0.6.1|0.7.0|lang-python/mccabe||
+|mcfly|0.8.4|0.8.5|app-utils/mcfly||
 |mcomix|1.2.1|3.1.0|app-utils/mcomix||
 |mdadm|4.2|4.3|app-admin/mdadm||
 |mdbook|0.4.14|0.4.37|app-doc/mdbook||
@@ -1930,7 +1931,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.6.4|app-utils/nfs-utils||
 |nghttp2|1.58.0|1.61.0|runtime-web/nghttp2||
 |nginx|1.25.3|1.26.0|app-web/nginx||
-|ngspice|35|42|app-electronics/ngspice||
 |nilfs-utils|2.2.9|2.2.11|app-admin/nilfs-utils||
 |ninja|1.12.0|1.11.1.1|app-devel/ninja|Possible downgrade from the current version (1.12.0 -> 1.11.1.1)|
 |nmap|7.93|7.95|app-network/nmap||
@@ -2230,7 +2230,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-specio|0.46|0.48|lang-perl/perl-specio||
 |perl-string-util|1.31|1.34|lang-perl/perl-string-util||
 |perl-sub-install|0.928|0.929|lang-perl/perl-sub-install||
-|perl-sub-quote|2.006006|2.006008|lang-perl/perl-sub-quote||
 |perl-sys-virt|5.8.0|10.2.0|lang-perl/perl-sys-virt||
 |perl-template-toolkit|2.27|3.101|lang-perl/perl-template-toolkit||
 |perl-term-progressbar|2.22|2.23|lang-perl/perl-term-progressbar||
@@ -2587,7 +2586,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml|0.17.19|0.18.6|lang-python/ruamel-yaml||
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python/ruamel-yaml-clib||
 |rubberband|1.9.2|3.3.0|app-multimedia/rubberband||
-|ruby|3.2.2|3.3.1|lang-ruby/ruby||
 |ruby-bundler|2.1.4|2.5.10|lang-ruby/ruby-bundler||
 |ruby-ffi|1.10.0|1.16.3|lang-ruby/ruby-ffi||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby/ruby-gettext||
