@@ -428,6 +428,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|2.8.3|3.0.13|app-admin/dkms||
 |dlib|19.20.0|19.24.4|lang-python/dlib||
 |dmd|2.089.0|2.108.1|lang-dlang/dmd||
+|dmenu|5.2|5.3|app-utils/dmenu||
 |dmidecode|3.5|3.6|app-utils/dmidecode||
 |dnsdiag|1.6.4|2.1.0|app-network/dnsdiag||
 |dnsmasq|2.89|2.90|app-network/dnsmasq||
