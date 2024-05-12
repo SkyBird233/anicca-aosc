@@ -620,7 +620,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gammaray|2.11.2|3.0.0|app-devel/gammaray||
 |gap|4.10.2|4.13.0|app-scientific/gap||
 |gaupol|1.7|1.14.1|app-multimedia/gaupol||
-|gawk|5.2.1|5.3.0|app-utils/gawk||
 |gc|8.2.6|8.2.4|runtime-common/gc|Possible downgrade from the current version (8.2.6 -> 8.2.4)|
 |gcab|1.1|1.6|desktop-gnome/gcab||
 |gcc|13.2.0|14.1.0|core-devel/gcc||
@@ -832,7 +831,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gwenview|23.08.5|24.02.2|desktop-kde/gwenview||
 |gwenview-trinity|14.1.0|14.1.2|desktop-trinity/gwenview-trinity||
 |gzdoom|4.6.1|4.12.2|app-games/gzdoom||
-|gzip|1.12|1.13|app-utils/gzip||
 |hardinfo|0.5.1<br>+git20220724|0.5.1|app-utils/hardinfo|Compound version number '0.5.1+git20220724'<br>Version number indicates a snapshot (+git) is used|
 |harfbuzz+32|2.6.7|8.4.0|runtime-optenv32/harfbuzz+32||
 |haruna|0.12.3|1.1.0|desktop-kde/haruna||
@@ -2111,7 +2109,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-authen-sasl|2.1401|2.1700|lang-perl/perl-authen-sasl||
 |perl-b-hooks-endofscope|0.24|0.28|lang-perl/perl-b-hooks-endofscope||
 |perl-cairo|1.106|1.109|lang-perl/perl-cairo||
-|perl-canary-stability|2012|2013|lang-perl/perl-canary-stability||
 |perl-cgi|4.47|4.64|lang-perl/perl-cgi||
 |perl-class-data-inheritable|0.08|0.09|lang-perl/perl-class-data-inheritable||
 |perl-class-inspector|1.28|1.36|lang-perl/perl-class-inspector||
