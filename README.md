@@ -41,7 +41,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akonadi-contacts|23.08.5|24.02.2|desktop-kde/akonadi-contacts||
 |akonadi-import-wizard|23.08.5|24.02.2|desktop-kde/akonadi-import-wizard||
 |akonadi-mime|23.08.5|24.02.2|desktop-kde/akonadi-mime||
-|akonadi-notes|23.08.5|24.02.2|desktop-kde/akonadi-notes||
 |akonadi-search|23.08.5|24.02.2|desktop-kde/akonadi-search||
 |akonadiconsole|23.08.5|24.02.2|desktop-kde/akonadiconsole||
 |akregator|23.08.5|24.02.2|desktop-kde/akregator||
@@ -1275,7 +1274,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ktexteditor|5.115.0|6.0.4|desktop-kde/ktexteditor||
 |ktextwidgets|5.115.0|6.0.4|desktop-kde/ktextwidgets||
 |ktimer|23.08.5|24.02.2|desktop-kde/ktimer||
-|ktnef|23.08.5|24.02.2|desktop-kde/ktnef||
 |ktoblzcheck|1.53|1.57|runtime-productivity/ktoblzcheck||
 |ktorrent|23.08.5|24.02.2|desktop-kde/ktorrent||
 |ktorrent-trinity|14.1.0|14.1.2|desktop-trinity/ktorrent-trinity||
@@ -1329,6 +1327,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libaio|0.3.111|0.3.113|runtime-common/libaio||
 |libaio+32|0.3.110|0.3.113|runtime-optenv32/libaio+32||
 |libantlr3c|3.4|4.13.1|runtime-common/libantlr3c||
+|libappimage|1.0.4<br>+5|1.0.4-5|runtime-desktop/libappimage|Compound version number '1.0.4+5'|
 |libapt-pkg-perl|0.1.36|0.1.40|lang-perl/libapt-pkg-perl||
 |libarchive|3.7.3|3.7.4|runtime-common/libarchive||
 |libart-lgpl|14.1.0|14.1.2|desktop-trinity/libart-lgpl||
@@ -1697,7 +1696,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lshw|02.19.2|02.20|app-utils/lshw||
 |lskat|23.08.5|24.02.2|desktop-kde/lskat||
 |lsof|4.98.0|4.99.3|app-utils/lsof||
-|ltrace|0.7.3<br>+git20151111|0.7.3|app-devel/ltrace|Compound version number '0.7.3+git20151111'<br>Version number indicates a snapshot (+git) is used|
 |lttng-ust|2.13.5|2.13.8|runtime-common/lttng-ust||
 |lua-expat|1.4.1|1.5.1|lang-lua/lua-expat||
 |lua-messagepack|0.5.1|0.5.4|lang-lua/lua-messagepack||
@@ -1955,7 +1953,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nut|2.7.4|2.8.2|app-admin/nut||
 |nvchecker|1.5|2.14.1|app-utils/nvchecker||
 |nvidia|550.54.14|550.78|runtime-display/nvidia||
-|nvidia+32|0|550.78|runtime-optenv32/nvidia+32||
 |nvme-cli|2.6|2.9.1|app-admin/nvme-cli||
 |obs-studio|27.0.0|30.1.2|app-multimedia/obs-studio||
 |ocaml|4.14.2|5.1.1+effect-syntax|lang-ocaml/ocaml||
