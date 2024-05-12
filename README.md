@@ -384,6 +384,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dbus-glib+32|0.108|0.112|runtime-optenv32/dbus-glib+32||
 |dbus-python|1.2.18|1.3.2|lang-python/dbus-python||
 |dbus-tqt|14.1.0|14.1.2|desktop-trinity/dbus-tqt||
+|dcaenc|3|2|app-multimedia/dcaenc|Possible downgrade from the current version (3 -> 2)|
 |ddcutil|2.1.3|2.1.4|app-utils/ddcutil||
 |ddnet|17.0.3|18.2|app-games/ddnet||
 |ddrescue|1.24|1.28|app-utils/ddrescue||
@@ -2172,6 +2173,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-gnome2-wnck|0.16|0.18|lang-perl/perl-gnome2-wnck||
 |perl-gtk2|1.2499|1.24993|lang-perl/perl-gtk2||
 |perl-gtk2-unique|0.05|0.07|lang-perl/perl-gtk2-unique||
+|perl-html-form|6.03|6.11|lang-perl/perl-html-form||
 |perl-html-parser|3.72|3.82|lang-perl/perl-html-parser||
 |perl-html-tagset|3.20|3.24|lang-perl/perl-html-tagset||
 |perl-http-cookies|6.01|6.11|lang-perl/perl-http-cookies||
