@@ -1,7 +1,7 @@
 # Anicca AOSC
 This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 ## Result
-![Relative date](https://img.shields.io/date/1715428957?label=Updated)
+![Relative date](https://img.shields.io/date/1715496234?label=Updated)
 | Package | Repo Version | New Version | Path | Warnings |
 |---------|--------------|-------------|------|----------|
 |1-ming|8.00|8.10|desktop-fonts/1-ming||
@@ -130,7 +130,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|app-admin/audit||
 |audiveris|5.1.0|5.3.1|app-doc/audiveris||
 |autobahn|19.2.1|23.6.2|lang-python/autobahn||
-|autobuild4|4.1.9|1.9.1|app-devel/autobuild4|Possible downgrade from the current version (4.1.9 -> 1.9.1)|
+|autobuild4|4.2.1|1.9.1|app-devel/autobuild4|Possible downgrade from the current version (4.2.1 -> 1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|app-devel/autoconf-archive||
 |autofs|5.1.8|5.1.9|app-admin/autofs||
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils/autojump-rs|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
@@ -305,7 +305,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |cloc|1.84|2.00|app-utils/cloc||
 |clucene|2.3.3.4<br>+git20130812|2.3.3.4|runtime-common/clucene|Compound version number '2.3.3.4+git20130812'<br>Version number indicates a snapshot (+git) is used|
 |clzip|1.10|1.14|app-utils/clzip||
-|cmake|3.29.2|3.29.3|app-devel/cmake||
 |cmark|0.30.3|0.31.0|runtime-doc/cmark||
 |cmus|2.9.1|2.10.0|app-multimedia/cmus||
 |cock|0.6.0|0.11.0|lang-python/cock||
@@ -640,7 +639,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gcdemu|3.2.4|3.2.6|app-multimedia/gcdemu||
 |gcr|3.41.1|4.3.0|desktop-gnome/gcr||
 |gdal|3.8.4|3.8.5|runtime-gis/gdal||
-|gdb|14.1|14.2|app-devel/gdb||
 |gdb+cross-amd64|8.2|14.2|app-devel/gdb+cross-amd64||
 |gdb+cross-arm64|12.1|14.2|app-devel/gdb+cross-arm64||
 |gdb+cross-mips64r6el|12.1|14.2|app-devel/gdb+cross-mips64r6el||
@@ -1723,7 +1721,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |lxml|4.7.1|4.9.1|lang-python/lxml||
 |lxpanel|0.9.3|0.10.1|desktop-lxde/lxpanel||
 |lxterminal|0.3.2|0.4.0|desktop-lxde/lxterminal||
-|lychee|0.14.0|0.15.1|app-web/lychee||
 |lynx|2.9.0|2.9.1|app-web/lynx||
 |lzd|1.0|1.4|app-utils/lzd||
 |lzip|1.23|1.24.1|app-utils/lzip||
@@ -1792,6 +1789,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |mbox-importer|23.08.5|24.02.2|desktop-kde/mbox-importer||
 |mbpfan|2.2.1|2.4.0|app-admin/mbpfan||
 |mccabe|0.6.1|0.7.0|lang-python/mccabe||
+|mcfly|0.8.4|0.8.5|app-utils/mcfly||
 |mcomix|1.2.1|3.1.0|app-utils/mcomix||
 |mdadm|4.2|4.3|app-admin/mdadm||
 |mdbook|0.4.14|0.4.37|app-doc/mdbook||
@@ -2270,7 +2268,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |pexpect|4.8.0|4.9.0|lang-python/pexpect||
 |pgxnclient|1.3.1|1.3.2|app-database/pgxnclient||
 |phonon|4.11.1|4.12.0|desktop-kde/phonon||
-|php|8.3.6|8.3.7|app-devel/php||
 |picard|2.8.5|2.11|app-multimedia/picard||
 |picmi|23.08.5|24.02.2|desktop-kde/picmi||
 |picocom|3.1|2023-04|app-utils/picocom||
@@ -2527,7 +2524,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|app-doc/rarian||
 |razergenie|0.9.0|1.1.0|app-devices/razergenie||
 |razor-agents|2.85|2.152|app-network/razor-agents||
-|rbw|1.9.0|1.10.0|app-utils/rbw||
+|rbw|1.10.1|1.10.0|app-utils/rbw|Possible downgrade from the current version (1.10.1 -> 1.10.0)|
 |rclone|1.65.2|1.66.0|app-web/rclone||
 |rcm|1.3.4|1.3.6|app-utils/rcm||
 |rdflib|6.2.0|7.0.0|lang-python/rdflib||
@@ -2886,7 +2883,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |tevent|0.13.0|0.16.1|runtime-common/tevent||
 |texlive|20220321|2024|app-doc/texlive|Possible downgrade from the current version (20220321 -> 2024)|
 |texmaker|5.1.2|5.1.4|app-doc/texmaker||
-|texstudio|4.0.2|4.7.3|app-doc/texstudio||
+|texstudio|4.0.2|4.8.0|app-doc/texstudio||
 |texworks|0.6.6|0.6.9|app-doc/texworks||
 |thedarkmod|2.09a|2.12|app-games/thedarkmod||
 |thermald|2.5.2|2.5.7|app-admin/thermald||
@@ -3126,7 +3123,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xl2tpd|1.3.15|1.3.18|app-network/xl2tpd||
 |xmlrpc-c|1.54.06|1.59.03|runtime-common/xmlrpc-c||
 |xmlsec|1.2.36|1.3.4|runtime-common/xmlsec||
-|xorg-server|21.1.12|21.1.13|runtime-display/xorg-server||
 |xournalpp|1.1.3|1.2.3|runtime-productivity/xournalpp||
 |xpra|5.0.8|6.0|app-network/xpra||
 |xray|1.8.4|1.8.11|app-network/xray||
@@ -3137,7 +3133,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsimd|10.0.0|13.0.0|runtime-common/xsimd||
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils/xss-lock|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xviewer|3.0.2|3.4.4|app-imaging/xviewer||
-|xwayland|23.2.5|23.2.6|runtime-display/xwayland||
 |xxhash|0.8.1|0.8.2|runtime-common/xxhash||
 |xz|5.4.1|5.6.1|app-utils/xz||
 |xz+32|5.2.5|5.6.1|runtime-optenv32/xz+32||
