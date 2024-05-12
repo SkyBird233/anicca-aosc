@@ -1081,6 +1081,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdoctools|5.115.0|6.0.4|desktop-kde/kdoctools||
 |kdpkg-trinity|14.1.0|14.1.2|desktop-trinity/kdpkg-trinity||
 |kdsoap|1.9.0|2.2.0|runtime-network/kdsoap||
+|keditbookmarks|23.08.5|24.02.2|desktop-kde/keditbookmarks||
 |keep-trinity|14.1.0|14.1.2|desktop-trinity/keep-trinity||
 |keepass|2.46|2.56|app-utils/keepass||
 |keepass-plugin-agent|0.10.1|0.13.7|app-utils/keepass-plugin-agent||
@@ -1116,6 +1117,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kid3|3.8.3|3.9.5|app-multimedia/kid3||
 |kidentitymanagement|23.08.5|24.02.2|desktop-kde/kidentitymanagement||
 |kidletime|5.115.0|6.0.4|desktop-kde/kidletime||
+|kig|23.08.5|24.02.2|desktop-kde/kig||
 |kigo|23.08.5|24.02.2|desktop-kde/kigo||
 |kile-trinity|14.1.0|14.1.2|desktop-trinity/kile-trinity||
 |killbots|23.08.5|24.02.2|desktop-kde/killbots||
@@ -2538,6 +2540,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-network/redsocks2|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.4.28|lang-python/regex||
 |reiser4progs|1.2.2|1.2.2.|app-admin/reiser4progs||
+|remmina|1.4.31|1.4.35|app-network/remmina||
 |renderdoc|1.16|1.32|app-devel/renderdoc||
 |repo|2.43|2.45|app-devel/repo||
 |reportlab|3.5.50|4.2.0|lang-python/reportlab||
