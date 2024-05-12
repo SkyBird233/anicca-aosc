@@ -280,7 +280,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |chmlib|0.40a|0.40|runtime-doc/chmlib||
 |chntpw|1.1|140201|app-utils/chntpw||
 |chromaprint|1.5.0|1.5.1|runtime-multimedia/chromaprint||
-|chromium|124.0.6367.118|124.0.6367.155|app-web/chromium||
+|chromium|124.0.6367.118|124.0.6367.201|app-web/chromium||
 |ciel|3.2.5|3.2.2|app-devel/ciel|Possible downgrade from the current version (3.2.5 -> 3.2.2)|
 |cifs-utils|6.10|7.0|app-network/cifs-utils||
 |cinnamon|5.8.3|6.0.4|desktop-cinnamon/cinnamon||
@@ -428,7 +428,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |dkms|2.8.3|3.0.13|app-admin/dkms||
 |dlib|19.20.0|19.24.4|lang-python/dlib||
 |dmd|2.089.0|2.108.1|lang-dlang/dmd||
-|dmenu|5.2|5.3|app-utils/dmenu||
 |dmidecode|3.5|3.6|app-utils/dmidecode||
 |dnsdiag|1.6.4|2.1.0|app-network/dnsdiag||
 |dnsmasq|2.89|2.90|app-network/dnsmasq||
@@ -758,7 +757,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |google-api-python-client|1.7.11|2.127.0|lang-python/google-api-python-client||
 |google-auth|1.6.3|2.29.0|lang-python/google-auth||
 |google-auth-httplib2|0.0.4|0.2.0|lang-python/google-auth-httplib2||
-|google-chrome|124.0.6367.118|124.0.6367.155|app-web/google-chrome||
+|google-chrome|124.0.6367.118|124.0.6367.201|app-web/google-chrome||
 |goverlay|1.0|1.1.1|app-utils/goverlay||
 |gpac|2.2.1|2.4.0|app-multimedia/gpac||
 |gperftools|2.13|2.15|app-devel/gperftools||
