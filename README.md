@@ -994,7 +994,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kalgebra|23.08.5|24.02.2|desktop-kde/kalgebra||
 |kalk|23.08.5|24.02.2|desktop-kde/kalk||
 |kalzium|23.08.5|24.02.2|desktop-kde/kalzium||
-|kamera|23.08.5|24.02.2|desktop-kde/kamera||
 |kamoso|23.08.5|24.02.2|desktop-kde/kamoso||
 |kanagram|23.08.5|24.02.2|desktop-kde/kanagram||
 |kapidox|5.115.0|6.0.4|desktop-kde/kapidox||
