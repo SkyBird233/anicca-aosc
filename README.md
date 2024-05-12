@@ -47,6 +47,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |akregator|23.08.5|24.02.2|desktop-kde/akregator||
 |alabaster|0.7.12|0.7.16|lang-python/alabaster||
 |alacarte|3.44.2|3.52.0|desktop-gnome/alacarte||
+|alacritty|0.13.1|0.13.2|app-utils/alacritty||
 |allegro|5.2.6.0|5.2.9.1|runtime-games/allegro||
 |allegro+32|4.4.2|5.2.9.1|runtime-optenv32/allegro+32||
 |alligator|23.08.5|24.02.2|desktop-kde/alligator||
@@ -128,7 +129,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |audit|3.1|4.0.1|app-admin/audit||
 |audiveris|5.1.0|5.3.1|app-doc/audiveris||
 |autobahn|19.2.1|23.6.2|lang-python/autobahn||
-|autobuild4|4.1.9|1.9.1|app-devel/autobuild4|Possible downgrade from the current version (4.1.9 -> 1.9.1)|
+|autobuild4|4.2.1|1.9.1|app-devel/autobuild4|Possible downgrade from the current version (4.2.1 -> 1.9.1)|
 |autoconf-archive|2021.02.19|2023.02.20|app-devel/autoconf-archive||
 |autofs|5.1.8|5.1.9|app-admin/autofs||
 |autojump-rs|0.5.1<br>+22.5.3|0.5.1|app-utils/autojump-rs|Compound version number '0.5.1+22.5.3'<br>Possible downgrade from the current version (0.5.1+22.5.3 -> 0.5.1)|
@@ -707,6 +708,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |gnome-characters|42.0|46.0|desktop-gnome/gnome-characters||
 |gnome-chess|42.1|46.0|desktop-gnome/gnome-chess||
 |gnome-clocks|42.0|46.0|desktop-gnome/gnome-clocks||
+|gnome-color-manager|3.36.0|3_36_0|desktop-gnome/gnome-color-manager||
 |gnome-connections|42.1.2|46.0|desktop-gnome/gnome-connections||
 |gnome-contacts|42.0|46.0|desktop-gnome/gnome-contacts||
 |gnome-control-center|42.3|46.1|desktop-gnome/gnome-control-center||
@@ -2022,6 +2024,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |openssl-1.1|1.1.1w|3.3.0|runtime-cryptography/openssl-1.1||
 |openssl-1.1+32|1.1.1q|3.3.0|runtime-optenv32/openssl-1.1+32||
 |opensubdiv|3.6.0|3_6_0|runtime-creativity/opensubdiv||
+|openswan|2.6.51.5|3.0.0|app-network/openswan||
 |opentimelineio|0.15|0.16.0|runtime-multimedia/opentimelineio||
 |openttd|12.2<br>+opengfx7.1<br>+opensfx1.0.3|14.1|app-games/openttd|Compound version number '12.2+opengfx7.1+opensfx1.0.3'|
 |openvpn|2.5.4|2.6.10|app-network/openvpn||
@@ -2335,6 +2338,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |poppler|22.08.0|24.05.0|runtime-doc/poppler||
 |poppler+32|0.66.0|24.05.0|runtime-optenv32/poppler+32||
 |poppler-data|0.4.9|0.4.12|runtime-data/poppler-data||
+|popt|1.18|1.19|runtime-common/popt||
 |popt+32|1.16|1.19|runtime-optenv32/popt+32||
 |portaudio|19<br>+20140130|190600_20161030|runtime-multimedia/portaudio|Compound version number '19+20140130'|
 |portaudio+32|19<br>+20140130|190600_20161030|runtime-optenv32/portaudio+32|Compound version number '19+20140130'|
