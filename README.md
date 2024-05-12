@@ -1649,7 +1649,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libxslt|1.1.34|1.1.39|runtime-common/libxslt||
 |libxslt+32|1.1.34|1.1.39|runtime-optenv32/libxslt+32||
 |libzen|0.4.38|0.4.41|runtime-common/libzen||
-|libzip|1.5.2|1.10.1|runtime-common/libzip||
 |liferea|1.13.8|1.15.6|app-web/liferea||
 |light-locker|1.8.0|1.9.0|app-utils/light-locker||
 |lightsoff|40.0.1|46.0|desktop-gnome/lightsoff||
@@ -2698,7 +2697,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |soci|4.0.1|4.0.3|runtime-database/soci||
 |sof-firmware|2.2.3|2.8.1|runtime-kernel/sof-firmware||
 |sof-tools|2.2.3|2.8.1|app-multimedia/sof-tools||
-|sofia-sip|1.12.11|1.13.17|runtime-web/sofia-sip||
 |solaar|1.1.11|1.1.12|app-utils/solaar||
 |solid|5.115.0|6.0.4|desktop-kde/solid||
 |sonic-visualiser|4.4|4.5.2|app-multimedia/sonic-visualiser||
