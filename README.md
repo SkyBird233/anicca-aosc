@@ -1081,7 +1081,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kdoctools|5.115.0|6.0.4|desktop-kde/kdoctools||
 |kdpkg-trinity|14.1.0|14.1.2|desktop-trinity/kdpkg-trinity||
 |kdsoap|1.9.0|2.2.0|runtime-network/kdsoap||
-|keditbookmarks|23.08.5|24.02.2|desktop-kde/keditbookmarks||
 |keep-trinity|14.1.0|14.1.2|desktop-trinity/keep-trinity||
 |keepass|2.46|2.56|app-utils/keepass||
 |keepass-plugin-agent|0.10.1|0.13.7|app-utils/keepass-plugin-agent||
@@ -1117,7 +1116,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kid3|3.8.3|3.9.5|app-multimedia/kid3||
 |kidentitymanagement|23.08.5|24.02.2|desktop-kde/kidentitymanagement||
 |kidletime|5.115.0|6.0.4|desktop-kde/kidletime||
-|kig|23.08.5|24.02.2|desktop-kde/kig||
 |kigo|23.08.5|24.02.2|desktop-kde/kigo||
 |kile-trinity|14.1.0|14.1.2|desktop-trinity/kile-trinity||
 |killbots|23.08.5|24.02.2|desktop-kde/killbots||
@@ -1931,6 +1929,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |nfs-utils|2.6.2|2.6.4|app-utils/nfs-utils||
 |nghttp2|1.58.0|1.61.0|runtime-web/nghttp2||
 |nginx|1.25.3|1.26.0|app-web/nginx||
+|ngspice|35|42|app-electronics/ngspice||
 |nilfs-utils|2.2.9|2.2.11|app-admin/nilfs-utils||
 |ninja|1.12.0|1.11.1.1|app-devel/ninja|Possible downgrade from the current version (1.12.0 -> 1.11.1.1)|
 |nmap|7.93|7.95|app-network/nmap||
@@ -2230,6 +2229,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |perl-specio|0.46|0.48|lang-perl/perl-specio||
 |perl-string-util|1.31|1.34|lang-perl/perl-string-util||
 |perl-sub-install|0.928|0.929|lang-perl/perl-sub-install||
+|perl-sub-quote|2.006006|2.006008|lang-perl/perl-sub-quote||
 |perl-sys-virt|5.8.0|10.2.0|lang-perl/perl-sys-virt||
 |perl-template-toolkit|2.27|3.101|lang-perl/perl-template-toolkit||
 |perl-term-progressbar|2.22|2.23|lang-perl/perl-term-progressbar||
@@ -2521,7 +2521,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |rarian|0.8.1|0.8.5|app-doc/rarian||
 |razergenie|0.9.0|1.1.0|app-devices/razergenie||
 |razor-agents|2.85|2.152|app-network/razor-agents||
-|rbw|1.9.0|1.10.0|app-utils/rbw||
+|rbw|1.10.1|1.10.0|app-utils/rbw|Possible downgrade from the current version (1.10.1 -> 1.10.0)|
 |rclone|1.65.2|1.66.0|app-web/rclone||
 |rcm|1.3.4|1.3.6|app-utils/rcm||
 |rdflib|6.2.0|7.0.0|lang-python/rdflib||
@@ -2538,7 +2538,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |redsocks2|0.67<br>+git20201229|0.1|app-network/redsocks2|Compound version number '0.67+git20201229'<br>Version number indicates a snapshot (+git) is used<br>Possible downgrade from the current version (0.67+git20201229 -> 0.1)|
 |regex|2019.02.21|2024.4.28|lang-python/regex||
 |reiser4progs|1.2.2|1.2.2.|app-admin/reiser4progs||
-|remmina|1.4.31|1.4.35|app-network/remmina||
 |renderdoc|1.16|1.32|app-devel/renderdoc||
 |repo|2.43|2.45|app-devel/repo||
 |reportlab|3.5.50|4.2.0|lang-python/reportlab||
@@ -2586,6 +2585,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |ruamel-yaml|0.17.19|0.18.6|lang-python/ruamel-yaml||
 |ruamel-yaml-clib|0.2.6|0.2.8|lang-python/ruamel-yaml-clib||
 |rubberband|1.9.2|3.3.0|app-multimedia/rubberband||
+|ruby|3.2.2|3.3.1|lang-ruby/ruby||
 |ruby-bundler|2.1.4|2.5.10|lang-ruby/ruby-bundler||
 |ruby-ffi|1.10.0|1.16.3|lang-ruby/ruby-ffi||
 |ruby-gettext|3.2.9|3.4.9|lang-ruby/ruby-gettext||
