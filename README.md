@@ -259,6 +259,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |celluloid|0.18|0.26|app-multimedia/celluloid||
 |celt-0.5|0.5.1.3|0.5.2|runtime-multimedia/celt-0.5||
 |cerberus|1.3.2|1.3.5|lang-python/cerberus||
+|cereal|1.3.0|1.3.2|runtime-common/cereal||
 |certbot|2.5.0|2.10.0|app-web/certbot||
 |certbot-apache|2.5.0|2.10.0|app-web/certbot-apache||
 |certbot-dns-cloudflare|2.5.0|2.10.0|app-web/certbot-dns-cloudflare||
@@ -1134,7 +1135,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |kio-zeroconf|23.08.5|24.02.2|desktop-kde/kio-zeroconf||
 |kiosktool-trinity|14.1.0|14.1.2|desktop-trinity/kiosktool-trinity||
 |kipi-plugins|23.08.5|24.02.2|desktop-kde/kipi-plugins||
-|kirigami-addons|0.11.0|1.1.0|desktop-kde/kirigami-addons||
+|kirigami-addons|0.11.0|1.2.0|desktop-kde/kirigami-addons||
 |kirigami-gallery|23.08.5|24.02.2|desktop-kde/kirigami-gallery||
 |kirigami2|5.115.0|6.0.4|desktop-kde/kirigami2||
 |kiriki|23.08.5|24.02.2|desktop-kde/kiriki||
