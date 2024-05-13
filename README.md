@@ -107,7 +107,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |aspnetcore-runtime-6.0|6.0.0|6.0.29|app-devel/aspnetcore-runtime-6.0||
 |aspnetcore-targeting-pack-6.0|6.0.0|6.0.29|app-devel/aspnetcore-targeting-pack-6.0||
 |assimp|5.3.1|5.4.0|runtime-multimedia/assimp||
-|ast-grep|0.22.0|0.21.4|app-devel/ast-grep|Possible downgrade from the current version (0.22.0 -> 0.21.4)|
+|ast-grep|0.22.0|0.22.2|app-devel/ast-grep||
 |astroid|2.12.2|3.1.0|lang-python/astroid||
 |astyle|3.1|3.4.14|app-devel/astyle||
 |at-spi2-atk+32|2.26.3|2.38.0|runtime-optenv32/at-spi2-atk+32||
@@ -512,7 +512,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |exempi|2.5.1|2.6.5|runtime-imaging/exempi||
 |exfatprogs|1.2.0|1.2.2|app-admin/exfatprogs||
 |exiv2|0.27.5|0.28.2|runtime-imaging/exiv2||
-|expat+32|2.2.9|2.6.2|runtime-optenv32/expat+32||
 |extra-cmake-modules|5.115.0|6.0.4|app-devel/extra-cmake-modules||
 |eyed3|0.9.5|0.9.7|lang-python/eyed3||
 |eza|0.11.0|0.10.1|app-utils/eza|Possible downgrade from the current version (0.11.0 -> 0.10.1)|
@@ -1465,7 +1464,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |libkmahjongg|23.08.5|24.02.2|desktop-kde/libkmahjongg||
 |libkolabxml|1.2.0|1.2.1|runtime-productivity/libkolabxml||
 |libkomparediff2|23.08.5|24.02.2|desktop-kde/libkomparediff2||
-|libksane|23.08.5|24.02.2|desktop-kde/libksane||
 |libkscreen|5.27.11|6.0.4|desktop-kde/libkscreen||
 |libksieve|23.08.5|24.02.2|desktop-kde/libksieve||
 |libksquirrel-trinity|14.1.0|14.1.2|desktop-trinity/libksquirrel-trinity||
@@ -2039,7 +2037,7 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |osinfo-db|20230719|20231215|app-admin/osinfo-db||
 |osinfo-db-tools|1.10.0|1.11.0|app-admin/osinfo-db-tools||
 |ostree|2023.1|2024.5|app-admin/ostree||
-|ouch|0.4.1|0.1.4|app-utils/ouch|Possible downgrade from the current version (0.4.1 -> 0.1.4)|
+|ouch|0.4.1|0.5.1|app-utils/ouch||
 |owntone|28.6|28.9|app-multimedia/owntone||
 |oxygen|5.27.11|6.0.4|desktop-kde/oxygen||
 |oxygen-icons|5.115.0|6.0.4|desktop-kde/oxygen-icons||
@@ -3130,7 +3128,6 @@ This is a small utility to run `aosc-findupdate` regularly by GitHub Actions.
 |xsimd|10.0.0|13.0.0|runtime-common/xsimd||
 |xss-lock|0.3.0<br>+git20140302|0.3.0|app-utils/xss-lock|Compound version number '0.3.0+git20140302'<br>Version number indicates a snapshot (+git) is used|
 |xviewer|3.0.2|3.4.4|app-imaging/xviewer||
-|xxhash|0.8.1|0.8.2|runtime-common/xxhash||
 |xz|5.4.1|5.6.1|app-utils/xz||
 |xz+32|5.2.5|5.6.1|runtime-optenv32/xz+32||
 |yad|0.40.0|13.0|app-utils/yad||
